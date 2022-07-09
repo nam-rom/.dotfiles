@@ -1,0 +1,96 @@
+:root {
+  --main-bg-color: #F4F6FA;
+  --action-color: #ec6d6d;
+  --action-hover-color: #d63f3f;
+  --card-bg-color: #F2F2F7;
+  --card-bg-hover-color: #FEFEFE;
+  --p-color: #5B6171;
+  --invalid-color: #ffe1e7;
+  --action-disabled-color: #d8d8d8;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+a {
+  color: var(--action-color);
+  font-weight: 400;
+  text-decoration: none;
+}
+
+body {
+  min-width: 400px;
+  background-color: var(--main-bg-color);
+  font-family: futura-pt, sans-serif,sans-serif;
+  color: #3c3c3c;
+  padding: 20px;
+  margin: 0;
+}
+
+.card {
+  background-color: var(--card-bg-color);
+  box-shadow: 0 -5px 28px rgba(0,0,0,0.15), 0 10px 10px rgba(0,0,0,0.12);
+}
+
+.card:hover {
+  background-color: var(--card-bg-hover-color);
+}
+
+.btn {
+  background-color: var(--action-color);
+  border: none;
+  color: var(--card-bg-hover-color);
+  padding: 10px 20px;
+  border-radius: 10px;
+  font-weight: 600;
+  font-size: 13px;
+  cursor: pointer;
+}
+
+.btn:hover,
+.btn:focus {
+  background-color: var(--action-hover-color);
+}
+
+.btn:disabled {
+  background-color: var(--action-disabled-color);
+}
+
+h2 {
+  margin: 0;
+  color: var(--action-color);
+  font-weight: 300;
+  font-size: 22px;
+}
+
+p {
+  font-weight: 300;
+  font-size: 17px;
+  color: var(--p-color);
+}
+
+input[type=text] {
+  border: none;
+  border-bottom: 2px solid var(--action-color);
+  padding: 5px;
+  width: 100%;
+  background-color: transparent;
+  outline: none;
+}
+
+input[type=text]:focus {
+  border-color: var(--action-hover-color);
+}
+
+.invalid {
+  color: var(--action-color);
+}
+
+.hide {
+  display: none;
+}

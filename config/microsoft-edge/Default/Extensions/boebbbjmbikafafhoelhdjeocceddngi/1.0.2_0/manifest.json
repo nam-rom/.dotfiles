@@ -1,0 +1,33 @@
+{
+   "action": {
+      "browser_style": true,
+      "default_icon": "icons/icon48.png",
+      "default_popup": "popup/popup.html",
+      "default_title": "__MSG_exportTitle__"
+   },
+   "author": "Daniel Doblado",
+   "background": {
+      "service_worker": "background.js"
+   },
+   "content_scripts": [ {
+      "js": [ "youtube2Anki.js" ],
+      "matches": [ "*://*.youtube.com/*" ],
+      "run_at": "document_start"
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_extensionDescription__",
+   "differential_fingerprint": "1.e9aab83abe3bfb425b0cf447eb1345a2f5f8b812634edbbfcfae9b7edec93885",
+   "homepage_url": "https://github.com/dobladov/youtube2Anki",
+   "icons": {
+      "16": "icons/icon16.png",
+      "24": "icons/icon24.png",
+      "48": "icons/icon48.png",
+      "96": "icons/icon96.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoRKtkWaGzEOGFzNPtWEFFH6fPYZWpaCtrAwp4dNbCfkOqSv7DvnJy/4U3HyXnJ2FPxxd9QMLYQdtwonqifkBOkkUN6f/yofs30/w/73JMXU0nBARDjSRCQQGhu9bWUFfxxgl0lQcInawCIrmOcmJQsA8sdyc6zDXsHOQjo/wnzic4radpSHVJsSDwL3SzcAiO9C0hAiPiOoXfTkxZ77ZD+iVZgKgzLd6hqvEoTVAuGQg8DFF6xXkOCOFVB58dA2CKo87r+mYblFweEYQREROA5y2szRV+7uTBjReFdeyQUth88qYlbegs79MeElfNNUOKbPepGyWlCJ3WcJ9pb8oAwIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_extensionName__",
+   "permissions": [ "tabs", "notifications" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.2"
+}

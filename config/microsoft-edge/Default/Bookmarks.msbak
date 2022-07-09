@@ -1,0 +1,1243 @@
+{
+   "checksum": "2aa075fe8b8700976e8ed9cd18553eed",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13280930172000000",
+               "guid": "78482131-3cba-4c6a-89ad-e4ce96bd9ed0",
+               "id": "6",
+               "name": "Whimsical - Where Great Ideas Take Shape",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://whimsical.com/"
+            }, {
+               "children": [ {
+                  "date_added": "13284021127519958",
+                  "guid": "0854914a-4371-4309-855a-691db7bcc5c6",
+                  "id": "8",
+                  "name": "colineckert/obsidian-things: An Obsidian theme inspired by the beautifully-designed app, Things.",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://github.com/colineckert/obsidian-things"
+               } ],
+               "date_added": "13284021146315958",
+               "date_modified": "13284021146315958",
+               "guid": "2cb0ba12-bb0f-4690-b8ca-2f5caf3fafd9",
+               "id": "7",
+               "name": "Obsidian",
+               "source": "unknown",
+               "type": "folder"
+            } ],
+            "date_added": "13281288311900586",
+            "date_modified": "13281288311900586",
+            "guid": "380378a2-74c0-41c0-829a-8b9f1f9a86b4",
+            "id": "5",
+            "name": "App",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13280663235000000",
+                  "guid": "3a977041-671d-43c7-9d88-70291b248f9e",
+                  "id": "11",
+                  "name": "Anki designs, themes, templates and downloadable graphic elements on Dribbble",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://dribbble.com/tags/anki"
+               }, {
+                  "children": [ {
+                     "date_added": "13280663235000000",
+                     "guid": "bd6a4148-89a9-4905-a2c7-768358f72c0e",
+                     "id": "13",
+                     "name": "How to write good prompts: using spaced repetition to create understanding",
+                     "show_icon": false,
+                     "source": "sync",
+                     "type": "url",
+                     "url": "https://andymatuschak.org/prompts/"
+                  }, {
+                     "date_added": "13280648036000000",
+                     "guid": "dd5d233d-9a98-47fa-98c2-ef16bff22175",
+                     "id": "14",
+                     "name": "Using Anki to remember what you read | Hacker News",
+                     "show_icon": false,
+                     "source": "sync",
+                     "type": "url",
+                     "url": "https://news.ycombinator.com/item?id=22492381"
+                  }, {
+                     "date_added": "13280663235000000",
+                     "guid": "c5dce760-6a12-438d-9d73-a0013784a42b",
+                     "id": "15",
+                     "name": "Using Spaced Repetition and Active Recall with Books to Hack Your Brain",
+                     "show_icon": false,
+                     "source": "sync",
+                     "type": "url",
+                     "url": "https://blog.readwise.io/hack-your-brain-with-spaced-repetition-and-active-recall/"
+                  } ],
+                  "date_added": "13281288311845586",
+                  "date_modified": "13281288311845586",
+                  "guid": "4b460d15-a058-4fc7-b458-108bc2b2b14b",
+                  "id": "12",
+                  "name": "Blog",
+                  "source": "unknown",
+                  "type": "folder"
+               }, {
+                  "date_added": "13280648035000000",
+                  "guid": "40392e34-957b-4717-9f92-475f7e98dbec",
+                  "id": "16",
+                  "name": "How to Design Beautiful Anki Cards — SHAMIM AHMED",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://medshamim.com/med/how-to-design-beautiful-anki-cards"
+               }, {
+                  "date_added": "13282965234439695",
+                  "guid": "181a30fe-ece4-432d-ba39-f36c131246da",
+                  "id": "17",
+                  "name": "Day 1: Thiết kế Product Card bắt mắt chưa đầy 1 giờ | 30 Days Thực chiến HTML CSS JS - YouTube",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=3odtU8VL3Mc"
+               } ],
+               "date_added": "13281288311845586",
+               "date_modified": "13282965234439695",
+               "guid": "c3e3badd-09f8-4775-a28f-67f4d5b32947",
+               "id": "10",
+               "name": "Anki",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "children": [ {
+                     "date_added": "13281532620436521",
+                     "guid": "ef25eca5-e5c6-44c5-b394-fc41bf7c1d55",
+                     "id": "20",
+                     "name": "Color wheel - color theory and calculator | Canva Colors",
+                     "show_icon": false,
+                     "source": "sync",
+                     "type": "url",
+                     "url": "https://www.canva.com/colors/color-wheel/"
+                  }, {
+                     "date_added": "13281532620472521",
+                     "guid": "d101aea9-9cf2-4caf-bbc6-8a208991a405",
+                     "id": "21",
+                     "name": "color",
+                     "show_icon": false,
+                     "source": "sync",
+                     "type": "url",
+                     "url": "https://color.adobe.com/create"
+                  }, {
+                     "date_added": "13281532620479521",
+                     "guid": "49c62057-651b-4486-a792-8e225040e822",
+                     "id": "22",
+                     "name": "CSS Gradient",
+                     "show_icon": false,
+                     "source": "sync",
+                     "type": "url",
+                     "url": "https://cssgradient.io/"
+                  } ],
+                  "date_added": "13281532544586524",
+                  "date_modified": "13281532620479521",
+                  "guid": "1b47b66e-5235-4f0c-a6d3-3493483e58c8",
+                  "id": "19",
+                  "name": "Color",
+                  "source": "unknown",
+                  "type": "folder"
+               }, {
+                  "date_added": "13280845863000000",
+                  "guid": "52f3f26b-9042-4023-b977-8ca0329a361e",
+                  "id": "23",
+                  "name": "Color wheel - color theory and calculator | Canva Colors",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://www.canva.com/colors/color-wheel/"
+               }, {
+                  "date_added": "13280648035000000",
+                  "guid": "fe4a7e03-d5ab-4b1b-bff6-ea6677d0bd18",
+                  "id": "24",
+                  "name": "color",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://color.adobe.com/create"
+               }, {
+                  "children": [ {
+                     "date_added": "13281532659297497",
+                     "guid": "faa1cdd0-6870-47a2-abae-bfad245527a4",
+                     "id": "26",
+                     "name": "25 CSS Login / Registration Forms",
+                     "show_icon": false,
+                     "source": "sync",
+                     "type": "url",
+                     "url": "https://freefrontend.com/css-login-forms/"
+                  } ],
+                  "date_added": "13281532544617524",
+                  "date_modified": "13281532659297497",
+                  "guid": "713e075c-3bd4-4217-a578-d3cf1ad5ae43",
+                  "id": "25",
+                  "name": "Css",
+                  "source": "unknown",
+                  "type": "folder"
+               }, {
+                  "date_added": "13281069856000000",
+                  "guid": "b0b4db81-b0a4-4f9b-945a-6d577b959dde",
+                  "id": "27",
+                  "name": "CSS Gradient",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://cssgradient.io/"
+               }, {
+                  "date_added": "13281532621013521",
+                  "guid": "4bb52a00-7602-44b4-b044-5019637ee1bb",
+                  "id": "28",
+                  "name": "GLASSMORPHISM at DuckDuckGo",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://duckduckgo.com/?q=GLASSMORPHISM&ia=web"
+               }, {
+                  "date_added": "13281023066000000",
+                  "guid": "c5aa94f2-8fc7-410d-9417-95b585f7f234",
+                  "id": "29",
+                  "name": "How to Not Suck at Color - 5 color theory tips every designer should know - YouTube",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=C1rQQ_YpgcI"
+               }, {
+                  "children": [ {
+                     "date_added": "13281532659316497",
+                     "guid": "f2fa4b3d-2fc1-4899-a811-cc13f18ddb27",
+                     "id": "31",
+                     "name": "25 CSS Login / Registration Forms",
+                     "show_icon": false,
+                     "source": "sync",
+                     "type": "url",
+                     "url": "https://freefrontend.com/css-login-forms/"
+                  }, {
+                     "date_added": "13281532659321497",
+                     "guid": "97b228e8-d26d-428d-8b28-0fd48b628d14",
+                     "id": "32",
+                     "name": "Beautiful Free Images & Pictures | Unsplash",
+                     "show_icon": false,
+                     "source": "sync",
+                     "type": "url",
+                     "url": "https://unsplash.com/"
+                  }, {
+                     "date_added": "13281532659327497",
+                     "guid": "093e9ca6-9ec5-490a-9863-6c6f7fd40ada",
+                     "id": "33",
+                     "name": "Explorez notre collection de plus de 300 000 images libres de droits et photos gratuites - FreeImages.com",
+                     "show_icon": false,
+                     "source": "sync",
+                     "type": "url",
+                     "url": "https://www.freeimages.com/fr"
+                  }, {
+                     "date_added": "13281532659339497",
+                     "guid": "c320e762-a4db-4f01-9abd-689eb189c764",
+                     "id": "34",
+                     "name": "Kho ảnh miễn phí · Pexels",
+                     "show_icon": false,
+                     "source": "sync",
+                     "type": "url",
+                     "url": "https://www.pexels.com/vi-vn/"
+                  }, {
+                     "date_added": "13281532659344497",
+                     "guid": "6e9a842a-922d-4eeb-859f-967c439b9e30",
+                     "id": "35",
+                     "name": "Tải Hình Ảnh Đẹp Từ Kho Hình Ảnh Miễn Phí - Pixabay",
+                     "show_icon": false,
+                     "source": "sync",
+                     "type": "url",
+                     "url": "https://pixabay.com/vi/"
+                  } ],
+                  "date_added": "13281532621023521",
+                  "date_modified": "13281532659344497",
+                  "guid": "a4c2d245-23ad-4496-a74b-a1643d9aac81",
+                  "id": "30",
+                  "name": "Image",
+                  "source": "unknown",
+                  "type": "folder"
+               }, {
+                  "date_added": "13281532621031521",
+                  "guid": "fbf53464-3c70-4223-84ef-0825717c8ec3",
+                  "id": "36",
+                  "name": "Learn to code easily with CodeLearn",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://codelearn.io/?fbclid=IwAR2Bkdu0xEB7um2kfaqqFLkBA0xJ2EvEhrR5FOKpbP_L1OVgKvBllK6AE7w"
+               }, {
+                  "children": [  ],
+                  "date_added": "13281532621038521",
+                  "date_modified": "13281532621038521",
+                  "guid": "e2806da4-1fb7-4f2b-909e-cb8f679d2a30",
+                  "id": "37",
+                  "name": "New folder",
+                  "source": "unknown",
+                  "type": "folder"
+               }, {
+                  "date_added": "13280663235000000",
+                  "guid": "3a5e9016-203e-40bf-8c2b-cff866b6869d",
+                  "id": "38",
+                  "name": "",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://materialui.co/colors/?fbclid=IwAR3upHdmjriMlvW6g81vCIyx42uCmEyuJo1riOEEZldR5h6fSYfKbbsgmik"
+               }, {
+                  "children": [ {
+                     "date_added": "13281532659365497",
+                     "guid": "22ee1411-755c-4c74-8886-209fb935351f",
+                     "id": "40",
+                     "name": "Con lắc đơn: phương trình dao động và năng lượng | VẬT LÝ PHỔ THÔNG",
+                     "show_icon": false,
+                     "source": "sync",
+                     "type": "url",
+                     "url": "https://vatlypt.com/con-lac-don-phuong-trinh-dao-dong-va-nang-luong.t151.html"
+                  }, {
+                     "date_added": "13281532659371497",
+                     "guid": "8bf55a17-ae6e-4377-83c1-a7315093bcac",
+                     "id": "41",
+                     "name": "hacking explain",
+                     "show_icon": false,
+                     "source": "sync",
+                     "type": "url",
+                     "url": "https://www.hacksplaining.com/lessons"
+                  } ],
+                  "date_added": "13281532621050521",
+                  "date_modified": "13281532659371497",
+                  "guid": "7863d331-606e-479a-a20b-fbcc0290c876",
+                  "id": "39",
+                  "name": "Reading",
+                  "source": "unknown",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13281532659376497",
+                     "guid": "5a094c59-5c58-451c-868f-a54c35972c3d",
+                     "id": "43",
+                     "name": "color",
+                     "show_icon": false,
+                     "source": "sync",
+                     "type": "url",
+                     "url": "https://color.adobe.com/create"
+                  }, {
+                     "date_added": "13281532659380497",
+                     "guid": "f3b66f6f-ec66-4bc9-9a0c-f6641599e4f9",
+                     "id": "44",
+                     "name": "CSS Gradient",
+                     "show_icon": false,
+                     "source": "sync",
+                     "type": "url",
+                     "url": "https://cssgradient.io/"
+                  } ],
+                  "date_added": "13281532621055521",
+                  "date_modified": "13281532659380497",
+                  "guid": "d7a8fca8-d10b-484e-a60c-06a20743aa35",
+                  "id": "42",
+                  "name": "Security",
+                  "source": "unknown",
+                  "type": "folder"
+               }, {
+                  "date_added": "13281532621059521",
+                  "guid": "a6fa3cb9-aba0-4a97-8555-66218ea2b38a",
+                  "id": "45",
+                  "name": "Studio Project — Kapwing",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://www.kapwing.com/videos/60866ef05c95040068fa7d19"
+               }, {
+                  "date_added": "13281532621067521",
+                  "guid": "a8d70d1b-692c-4069-a424-d04cd5bf2e8a",
+                  "id": "46",
+                  "name": "typography - YouTube",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://www.youtube.com/results?search_query=typography"
+               }, {
+                  "date_added": "13290906872518390",
+                  "guid": "2533d6fc-fd76-4d35-a29d-681ac4fa0b23",
+                  "id": "47",
+                  "name": "Nord",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://www.nordtheme.com/"
+               } ],
+               "date_added": "13281288311858586",
+               "date_modified": "13293634622930615",
+               "guid": "7c65c6b4-ced2-4589-8ab3-c3367ff93071",
+               "id": "18",
+               "name": "Color",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13280834483000000",
+                  "guid": "7d098b50-da26-4ec5-83de-d093a414c4b4",
+                  "id": "49",
+                  "name": "25 CSS Login / Registration Forms",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://freefrontend.com/css-login-forms/"
+               } ],
+               "date_added": "13281288311862586",
+               "date_modified": "13281288311862586",
+               "guid": "0f20b1d9-53cb-4ec2-91ef-78123b7adb68",
+               "id": "48",
+               "name": "Css",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "date_added": "13281155825000000",
+               "guid": "a978b62a-9f39-41f4-aa60-4db43fb5c1db",
+               "id": "50",
+               "name": "Excel analystics and powerpoint design",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/c/OtherLevel%E2%80%99s/videos"
+            }, {
+               "date_added": "13280671794000000",
+               "guid": "e5d5149f-be33-4c6c-8eb7-8b35074bfb24",
+               "id": "51",
+               "name": "GLASSMORPHISM at DuckDuckGo",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://duckduckgo.com/?q=GLASSMORPHISM&ia=web"
+            }, {
+               "children": [ {
+                  "date_added": "13283350861754900",
+                  "guid": "690fbcaf-4fea-4bcc-b0c4-67d31eda8f44",
+                  "id": "53",
+                  "name": "Free Vector Icons — Download 631,600 icons (SVG, PNG)",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://icons8.com/icons?fbclid=IwAR1bTMlbv1G44QdoW6sPaQ9xE8NhHpucIqf7635tZ1PpSqQPiY0seK5lyoA"
+               }, {
+                  "date_added": "13281532621045521",
+                  "guid": "31f3c00d-4393-47ae-94a9-c3d464881eb7",
+                  "id": "54",
+                  "name": "Notion Icons - Thousands of icons for Notion. Supports dark mode, light mode and a combined mode. Free forever. Full vector (SVG) support.",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://notionicons.website/?fbclid=IwAR1IbEkojWJTAEemB8bz8f6QoNMFa5HazTn-e1pil-v30ae3OI2aMIGbbbA"
+               }, {
+                  "date_added": "13283350982609898",
+                  "guid": "232acf47-e78e-48ab-a737-216c70c78274",
+                  "id": "55",
+                  "name": "Iconsax React",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://iconsax-react.pages.dev/?fbclid=IwAR3snjmNnI2ZxyXuG0w4xHOy01W1sC70ZpImnKfjphLWIalxbEI9XWs6ATo"
+               }, {
+                  "date_added": "13283671063107881",
+                  "guid": "6e5c76f8-f858-4a06-84d5-9662a6ad6d26",
+                  "id": "56",
+                  "name": "5,975,000+ free and premium vector icons - Iconfinder",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://www.iconfinder.com/"
+               } ],
+               "date_added": "13283350879445900",
+               "date_modified": "13283671063107881",
+               "guid": "5e58f8c1-3656-4a24-b7bd-40094156212c",
+               "id": "52",
+               "name": "Icon",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13280648035000000",
+                  "guid": "044d3fb7-d6af-4ec6-8914-6ab918bd2cec",
+                  "id": "58",
+                  "name": "Beautiful Free Images & Pictures | Unsplash",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://unsplash.com/"
+               }, {
+                  "date_added": "13280648035000000",
+                  "guid": "2b679ccb-be5a-4bb4-bad5-11f4e6a58b4d",
+                  "id": "59",
+                  "name": "Explorez notre collection de plus de 300 000 images libres de droits et photos gratuites - FreeImages.com",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://www.freeimages.com/fr"
+               }, {
+                  "date_added": "13280648035000000",
+                  "guid": "113ff75c-a064-4b73-a002-2b2a92d89736",
+                  "id": "60",
+                  "name": "Kho ảnh miễn phí · Pexels",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://www.pexels.com/vi-vn/"
+               }, {
+                  "date_added": "13280648035000000",
+                  "guid": "873d34cc-f8d0-458d-ae88-4ce8d17dae2d",
+                  "id": "61",
+                  "name": "Tải Hình Ảnh Đẹp Từ Kho Hình Ảnh Miễn Phí - Pixabay",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://pixabay.com/vi/"
+               } ],
+               "date_added": "13281288311852586",
+               "date_modified": "13281288311852586",
+               "guid": "f9265412-6fe6-45c5-87c9-043a27830239",
+               "id": "57",
+               "name": "Image",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "date_added": "13281532659397497",
+               "guid": "a967442e-b83b-40fb-a2a7-14ec16bea843",
+               "id": "62",
+               "name": "Learn to code easily with CodeLearn",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://codelearn.io/?fbclid=IwAR2Bkdu0xEB7um2kfaqqFLkBA0xJ2EvEhrR5FOKpbP_L1OVgKvBllK6AE7w"
+            }, {
+               "date_added": "13282882674975479",
+               "guid": "97f2d754-b473-4bc6-99ed-6743b2bfe62b",
+               "id": "63",
+               "name": "Microsoft Edge",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://microsoftedgewelcome.microsoft.com/en-us/?form=MA13DW"
+            }, {
+               "date_added": "13283253227157627",
+               "guid": "6d444b8d-9e69-4d07-be00-3792b3ea3dab",
+               "id": "64",
+               "name": "",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://duckduckgo.com/?q=kawping&ia=web"
+            }, {
+               "date_added": "13280648035000000",
+               "guid": "e48bf19b-8a86-4385-ada0-4e89490c5a3a",
+               "id": "65",
+               "name": "Notion Icons - Thousands of icons for Notion. Supports dark mode, light mode and a combined mode. Free forever. Full vector (SVG) support.",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://notionicons.website/?fbclid=IwAR1IbEkojWJTAEemB8bz8f6QoNMFa5HazTn-e1pil-v30ae3OI2aMIGbbbA"
+            }, {
+               "children": [ {
+                  "date_added": "13281532659595497",
+                  "guid": "f863f8d1-6381-4a0d-9bdc-eeba5ac7e1dd",
+                  "id": "67",
+                  "name": "color",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://color.adobe.com/create"
+               }, {
+                  "date_added": "13281532659606497",
+                  "guid": "28671f27-5aec-40c6-98f2-675f8d0caa25",
+                  "id": "68",
+                  "name": "CSS Gradient",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://cssgradient.io/"
+               }, {
+                  "children": [  ],
+                  "date_added": "13281532659611497",
+                  "date_modified": "13281532659611497",
+                  "guid": "8fbfaae5-9309-4175-8791-a03ac870ed49",
+                  "id": "69",
+                  "name": "New folder",
+                  "source": "unknown",
+                  "type": "folder"
+               } ],
+               "date_added": "13281532659413497",
+               "date_modified": "13281532659606497",
+               "guid": "2d21c331-f994-452c-afbf-3d87bee403c4",
+               "id": "66",
+               "name": "Security",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "date_added": "13280648035000000",
+               "guid": "dbc48e23-98d1-49fc-b298-7ca106da2d6f",
+               "id": "70",
+               "name": "Studio Project — Kapwing",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.kapwing.com/videos/60866ef05c95040068fa7d19"
+            }, {
+               "date_added": "13280845712000000",
+               "guid": "4918cf41-cca2-4c6a-b13d-420da4e0672f",
+               "id": "71",
+               "name": "typography - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/results?search_query=typography"
+            }, {
+               "children": [ {
+                  "date_added": "13280993529000000",
+                  "guid": "3ea2505f-6539-40ec-8bcf-0f57412bf652",
+                  "id": "73",
+                  "name": "From The Hanoi Chamomile",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://drive.google.com/drive/folders/1xsuato33OewdxOLfxHToRvr1FYPQW7RT"
+               }, {
+                  "date_added": "13281065250000000",
+                  "guid": "28811971-2d87-475e-9fc2-319abe703741",
+                  "id": "74",
+                  "name": "Đặng Tuấn | Facebook",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://www.facebook.com/tuanqueoo"
+               } ],
+               "date_added": "13281288311791586",
+               "date_modified": "13281288311791586",
+               "guid": "f3ba36bd-5edd-494c-b345-79bc4995a32e",
+               "id": "72",
+               "name": "Wallpaper",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "date_added": "13281159575000000",
+               "guid": "8d38fe8d-868d-4cae-ab17-2427ff325c51",
+               "id": "75",
+               "name": "Đặng Tuấn | Facebook",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.facebook.com/tuanqueoo"
+            } ],
+            "date_added": "13281288311371586",
+            "date_modified": "13283253227157627",
+            "guid": "5322405f-097a-4c4a-851c-924faa3d10b2",
+            "id": "9",
+            "name": "Design",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13281532659616497",
+               "guid": "141f9223-c4ff-41e3-b578-c7628d21e22e",
+               "id": "77",
+               "name": "CodeWithHarry - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/c/CodeWithHarry"
+            }, {
+               "children": [ {
+                  "date_added": "13280936341000000",
+                  "guid": "09aa7420-d460-4e3e-8878-c6cea05bd371",
+                  "id": "79",
+                  "name": "CodeWithHarry - YouTube",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://www.youtube.com/c/CodeWithHarry"
+               }, {
+                  "date_added": "13280648035000000",
+                  "guid": "54f9c44f-7f85-4bce-b616-8080c8efd89f",
+                  "id": "80",
+                  "name": "F8",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://fullstack.edu.vn/"
+               }, {
+                  "date_added": "13280648035000000",
+                  "guid": "a8769966-2c6d-4914-9e60-cbf365123fcf",
+                  "id": "81",
+                  "name": "Learn to code easily with CodeLearn",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://codelearn.io/?fbclid=IwAR2Bkdu0xEB7um2kfaqqFLkBA0xJ2EvEhrR5FOKpbP_L1OVgKvBllK6AE7w"
+               }, {
+                  "date_added": "13280663235000000",
+                  "guid": "8488760b-26c2-4902-b0c1-f03361d7595c",
+                  "id": "82",
+                  "name": "",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://www.coursera.org/"
+               } ],
+               "date_added": "13281288311865586",
+               "date_modified": "13281288311865586",
+               "guid": "1581d2c7-1933-4dbb-857d-81a89f368b64",
+               "id": "78",
+               "name": "Course",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "date_added": "13282629330587317",
+               "guid": "e766bd1d-a29c-4d58-b137-8d86c86f7711",
+               "id": "83",
+               "name": "IELTS Tips – khanhtung.com",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://khanhtung.com/category/ielts-tips-2/"
+            }, {
+               "date_added": "13280663234000000",
+               "guid": "abfdc170-ae4b-4a18-85f2-8b7a6cb3fb7a",
+               "id": "84",
+               "name": "",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.w3schools.com/cssref/pr_class_visibility.asp"
+            }, {
+               "date_added": "13286020914892850",
+               "guid": "37576f53-f80a-4816-b746-6ff0205f20d9",
+               "id": "85",
+               "name": "Web technology for developers | MDN",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://developer.mozilla.org/en-US/docs/Web"
+            }, {
+               "date_added": "13287326742587707",
+               "guid": "514d7ee0-477d-4688-a087-f75762c0c272",
+               "id": "86",
+               "name": "300tb share - Google Drive",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://drive.google.com/drive/folders/1oCMgJeBc55NuEasPcgwjx2FuPdQd8neu"
+            } ],
+            "date_added": "13281288311864586",
+            "date_modified": "13287326742587707",
+            "guid": "e1049846-b15c-4e17-bc56-cac0689dca8d",
+            "id": "76",
+            "name": "Edu",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "date_added": "13281159553000000",
+            "guid": "0ea89f91-688c-4b96-a029-b1bdb62e06be",
+            "id": "87",
+            "name": "",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://github.com/Just-little-coder/Hello-world"
+         }, {
+            "date_added": "13281350031133225",
+            "guid": "ee0684c8-1aac-4973-9dd3-579f6fe0ef0e",
+            "id": "88",
+            "name": "",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://drive.google.com/drive/u/0/folders/13hCjpEXSiHkEkfuZesz-MoPlmaNnRI0e"
+         }, {
+            "date_added": "13281503842901048",
+            "guid": "8fbf769a-01dd-4716-a221-0a87afcba031",
+            "id": "89",
+            "name": "",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://dictionary.cambridge.org/"
+         }, {
+            "date_added": "13281668531449318",
+            "guid": "ceaa02f1-c734-46ee-a742-194cc836f980",
+            "id": "90",
+            "name": "",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "chrome-extension://gpmljinohlbfgmeoaeceoajachkabijo/upload.html"
+         }, {
+            "date_added": "13280460680000000",
+            "guid": "871023aa-a696-42ad-b7be-d3641b028136",
+            "id": "91",
+            "name": "",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://calendar.google.com/calendar/u/0/r"
+         }, {
+            "date_added": "13283175152505075",
+            "guid": "225c0f2d-2c71-4c65-bbf8-b2f8ca919263",
+            "id": "92",
+            "name": "",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.notion.so/zod1412/5b46761e03014e43a10bd1a91a3fb7eb?v=4e54e1d4548f41cea1ef6842469c5a95"
+         }, {
+            "children": [ {
+               "date_added": "13281532659622497",
+               "guid": "596d51e3-21ff-4dbb-83d0-3b729803418a",
+               "id": "94",
+               "name": "Con lắc đơn: phương trình dao động và năng lượng | VẬT LÝ PHỔ THÔNG",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://vatlypt.com/con-lac-don-phuong-trinh-dao-dong-va-nang-luong.t151.html"
+            }, {
+               "date_added": "13281532659627497",
+               "guid": "381804fa-6ee5-4e57-930c-528551aba25a",
+               "id": "95",
+               "name": "hacking explain",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.hacksplaining.com/lessons"
+            }, {
+               "date_added": "13281589243688900",
+               "guid": "170e3f58-27ef-4856-934f-cd5588ff5c32",
+               "id": "96",
+               "name": "How to learn English | Antimoon",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.antimoon.com/how/howtolearn.htm"
+            }, {
+               "date_added": "13281873287825874",
+               "guid": "79a2d2a3-2ea5-449f-b408-a4b7fe4a078c",
+               "id": "97",
+               "name": "Spaced Repetition research",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.gwern.net/Spaced-repetition"
+            }, {
+               "date_added": "13281873335595306",
+               "guid": "257bd10c-caff-4006-b584-d6a55de76162",
+               "id": "98",
+               "name": "Using Anki for mathematics",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.lukethorburn.com/anki/"
+            } ],
+            "date_added": "13281288311896586",
+            "date_modified": "13281873335595306",
+            "guid": "d755d4ab-3a9b-4bfa-bd05-a5d544b09b31",
+            "id": "93",
+            "name": "Reading",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13280930439000000",
+               "guid": "14176e6d-0179-403c-acc1-34a318b99640",
+               "id": "100",
+               "name": "hacking explain",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.hacksplaining.com/lessons"
+            }, {
+               "children": [  ],
+               "date_added": "13281288311900586",
+               "date_modified": "13281288311900586",
+               "guid": "577fe4f9-e1c8-4c66-950c-bbb7b47bcafc",
+               "id": "101",
+               "name": "New folder",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "date_added": "13280663234000000",
+               "guid": "1536bb37-846d-483b-a539-04770a016a4e",
+               "id": "102",
+               "name": "",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://chongluadao.vn/doi-tac-dong-hanh"
+            }, {
+               "children": [ {
+                  "date_added": "13286024251876941",
+                  "guid": "7a3db4b4-cb5f-49f0-87c4-935797badd88",
+                  "id": "104",
+                  "name": "explainshell.com - match command-line arguments to their help text",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://explainshell.com/?fbclid=IwAR1An-LtVxS6uMTTGiX0kk7mIu2IkcEyogovmkCfWapp2O4pDO0s_Tkz7LU"
+               }, {
+                  "date_added": "13287740601590717",
+                  "guid": "2553b133-2c29-41ed-afef-edf74d130373",
+                  "id": "105",
+                  "name": "GitHub - ChrisTitusTech/ArchTitus: Automated Arch Linux Install",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://github.com/ChrisTitusTech/ArchTitus?fbclid=IwAR1nhIL3dI-ebqgcZbsLjQw90PSrSX2gBqpPzv-nXAu0TiCFWaEODAVz1IE"
+               } ],
+               "date_added": "13286024265673574",
+               "date_modified": "13287740601590717",
+               "guid": "73b36ba2-aa08-4ed4-8c1b-c9d7d935de0c",
+               "id": "103",
+               "name": "Linux",
+               "source": "unknown",
+               "type": "folder"
+            } ],
+            "date_added": "13281288311896586",
+            "date_modified": "13281288311896586",
+            "guid": "bf5c9644-2dfb-4011-81c2-f0ef0f84011e",
+            "id": "99",
+            "name": "Security",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "date_added": "13283150367892231",
+            "guid": "526de7ad-6960-48e4-ae40-9548100161f2",
+            "id": "106",
+            "name": " SQL",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vT4fNNR8JyKtpRr_0acxmvtTn8voRtSBv4g7bnWSggzR5tur3bIMnxdct3A1XU6dambCxFiL6sHH2qU/pubhtml?utm_source=j2team&utm_medium=url_shortener"
+         }, {
+            "date_added": "13281586989581605",
+            "guid": "1beefae2-b270-4d6b-8290-5fb7d91d392b",
+            "id": "107",
+            "name": "Work space",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://just-little-coder.github.io/Hello-world/"
+         }, {
+            "date_added": "13285928543532229",
+            "guid": "572f12d1-13da-45da-b3d0-335a94680d50",
+            "id": "108",
+            "name": "latex",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://latexeditor.lagrida.com/"
+         } ],
+         "date_added": "13292798938320723",
+         "date_modified": "13285928543532229",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13276484008000000",
+            "guid": "fc623f52-c6e9-49a3-9794-d8ba0c70f997",
+            "id": "109",
+            "name": "Anki VN",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.facebook.com/groups/ankivocabulary/permalink/1014536742639316"
+         }, {
+            "date_added": "13276263468000000",
+            "guid": "5e760585-8f2c-48fd-97df-500ca6119515",
+            "id": "110",
+            "name": "Anki",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.reddit.com/r/Anki/"
+         }, {
+            "date_added": "13282839567080145",
+            "guid": "63122d84-94ab-4764-bc4d-31ee0d283fca",
+            "id": "111",
+            "name": "Beautiful Free Images & Pictures | Unsplash",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://unsplash.com/"
+         }, {
+            "date_added": "13282839567087145",
+            "guid": "0c89b64f-2034-4c98-870e-adfa664642db",
+            "id": "112",
+            "name": "Bing",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://go.microsoft.com/fwlink/p/?LinkId=255142"
+         }, {
+            "date_added": "13280808347000000",
+            "guid": "b58f065e-520f-41d1-b89d-10799f06253e",
+            "id": "113",
+            "name": "Bảo Nguyễn - YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/channel/UCoEQlAIlSs_N9bVD_jQiW9w/videos"
+         }, {
+            "children": [ {
+               "date_added": "13282839567799145",
+               "guid": "e9475719-e696-48c4-b614-7f806f50340c",
+               "id": "115",
+               "name": "Beautiful Free Images & Pictures | Unsplash",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://unsplash.com/"
+            }, {
+               "date_added": "13282839567802145",
+               "guid": "ec0eee5c-28c9-4cfe-928a-d2ea8c2520bc",
+               "id": "116",
+               "name": "Explorez notre collection de plus de 300 000 images libres de droits et photos gratuites - FreeImages.com",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.freeimages.com/fr"
+            }, {
+               "date_added": "13282839567809145",
+               "guid": "f8b544a3-ebfc-460c-b28c-acd838c71da3",
+               "id": "117",
+               "name": "Kho ảnh miễn phí · Pexels",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.pexels.com/vi-vn/"
+            }, {
+               "date_added": "13282839567813145",
+               "guid": "235365c7-ccae-4247-955e-3ccb4a9656c0",
+               "id": "118",
+               "name": "Tải Hình Ảnh Đẹp Từ Kho Hình Ảnh Miễn Phí - Pixabay",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://pixabay.com/vi/"
+            }, {
+               "date_added": "13283418976941004",
+               "guid": "6b96e246-e9ec-4f19-9391-efd5b5fe4aef",
+               "id": "119",
+               "name": "Fresh Background Gradients | WebGradients.com 💎",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://webgradients.com/"
+            } ],
+            "date_added": "13282839567095145",
+            "date_modified": "13283418976941004",
+            "guid": "8f44b685-5fd2-4f9b-b8c8-1b124931d752",
+            "id": "114",
+            "name": "Color",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "date_added": "13282839567102145",
+            "guid": "bfc8b5b9-b5d0-4aeb-82a5-68c70f32d22f",
+            "id": "120",
+            "name": "Con lắc đơn: phương trình dao động và năng lượng | VẬT LÝ PHỔ THÔNG",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://vatlypt.com/con-lac-don-phuong-trinh-dao-dong-va-nang-luong.t151.html"
+         }, {
+            "date_added": "13282839567107145",
+            "guid": "64e5c49f-35c1-4980-972f-d3e361aab632",
+            "id": "121",
+            "name": "CSS Gradient",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://cssgradient.io/"
+         }, {
+            "date_added": "13282839567740145",
+            "guid": "700b8485-fe34-48cf-a482-8456be36ed0f",
+            "id": "122",
+            "name": "Explorez notre collection de plus de 300 000 images libres de droits et photos gratuites - FreeImages.com",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.freeimages.com/fr"
+         }, {
+            "date_added": "13282839567746145",
+            "guid": "363cb54b-2d02-4b0c-b3f5-772bccb9ca49",
+            "id": "123",
+            "name": "hacking explain",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.hacksplaining.com/lessons"
+         }, {
+            "date_added": "13282839567756145",
+            "guid": "73a35905-6a7c-4aaa-b159-d1b8e06613f3",
+            "id": "124",
+            "name": "How to write good prompts: using spaced repetition to create understanding",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://andymatuschak.org/prompts/"
+         }, {
+            "children": [  ],
+            "date_added": "13282839567759145",
+            "date_modified": "13282839567759145",
+            "guid": "31902eaa-86bc-4420-9d4b-e325dac9fce3",
+            "id": "125",
+            "name": "Image",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "date_added": "13282839567765145",
+            "guid": "eaf5d1f4-a411-47f8-afd2-aa08be2809a7",
+            "id": "126",
+            "name": "Kho ảnh miễn phí · Pexels",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.pexels.com/vi-vn/"
+         }, {
+            "date_added": "13276263482000000",
+            "guid": "d7917ea6-32a8-4369-98c1-8b4466e41531",
+            "id": "127",
+            "name": "Language",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.reddit.com/r/AnkiLanguageLearning/"
+         }, {
+            "children": [  ],
+            "date_added": "13282839567770145",
+            "date_modified": "13282839567770145",
+            "guid": "f269e4f5-72af-42b7-97df-d9cbbdc10374",
+            "id": "128",
+            "name": "New folder",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "date_added": "13281532659461497",
+            "guid": "7690d166-7237-4759-ab7b-c11c720acca7",
+            "id": "129",
+            "name": "Notion Icons - Thousands of icons for Notion. Supports dark mode, light mode and a combined mode. Free forever. Full vector (SVG) support.",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://notionicons.website/?fbclid=IwAR1IbEkojWJTAEemB8bz8f6QoNMFa5HazTn-e1pil-v30ae3OI2aMIGbbbA"
+         }, {
+            "date_added": "13281532659488497",
+            "guid": "d4d3713e-700d-4d56-9c21-93d01a6ba282",
+            "id": "130",
+            "name": "Studio Project — Kapwing",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.kapwing.com/videos/60866ef05c95040068fa7d19"
+         }, {
+            "children": [  ],
+            "date_added": "13282839567779145",
+            "date_modified": "13282839567779145",
+            "guid": "96319373-ac6c-4a22-bf80-e6f66ce94ba1",
+            "id": "131",
+            "name": "Study method",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "date_added": "13282839567785145",
+            "guid": "7e062679-35f5-44cd-9a8a-3803f8dda4c2",
+            "id": "132",
+            "name": "Tải Hình Ảnh Đẹp Từ Kho Hình Ảnh Miễn Phí - Pixabay",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://pixabay.com/vi/"
+         }, {
+            "date_added": "13282839567788145",
+            "guid": "86dc222f-af9a-46f1-aca8-8c5e06f7207c",
+            "id": "133",
+            "name": "Using Anki to remember what you read | Hacker News",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://news.ycombinator.com/item?id=22492381"
+         }, {
+            "date_added": "13282839567794145",
+            "guid": "a55ec53a-e372-4303-ae93-9ad8afc93f41",
+            "id": "134",
+            "name": "Using Spaced Repetition and Active Recall with Books to Hack Your Brain",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://blog.readwise.io/hack-your-brain-with-spaced-repetition-and-active-recall/"
+         }, {
+            "date_added": "13285523522691671",
+            "guid": "5aed0943-542d-48df-9871-7b69a45ee3d3",
+            "id": "135",
+            "name": "TÀI LIỆU AUDIO VĂN TTS - Google Drive",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://docs.google.com/spreadsheets/d/1aKRqLAZ03cSlJpswLhA1qpP1VO8Znz8bK4gQ0L3Fh84/htmlview?fbclid=IwAR3XvTZITlDsFGwG81YoR3kuWmLFW-lWqLSnxWbwprOR-1fxyQE-q1UGci4#gid=0"
+         }, {
+            "children": [ {
+               "date_added": "13289127361223183",
+               "guid": "28de58f9-f69f-4262-9d0d-4740ed0791e0",
+               "id": "137",
+               "name": "Học Ké TV - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/channel/UC62-Qui7-3oMFRdKq5X9Zew/videos"
+            }, {
+               "date_added": "13289389335909016",
+               "guid": "0da5d5ec-40bb-440f-9822-0add16061a05",
+               "id": "138",
+               "name": "TỔNG HỢP KHÓA HỌC THPT & ĐH - Google Trang tính",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://docs.google.com/spreadsheets/d/1z9r0N9K511oSg1qiSQNifVyZ8H580-AR1aF0EhIWXFA/edit?fbclid=IwAR2P47Xs8IO1-Hqb-rBfeCJxv3aadJGA1AjkxYSeUaHeUX4ECtai9Qksquc#gid=0"
+            } ],
+            "date_added": "13289127374853995",
+            "date_modified": "13289389335909016",
+            "guid": "9f0bdd8b-dd08-4521-b7ef-07eed0c38518",
+            "id": "136",
+            "name": "đại học",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13292798938320726",
+         "date_modified": "13285523522691671",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13292798938320727",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "Ci4KDgiIgQISCGFcqhyAAQAAEgAgASoYcU84NzJOTVRneTNuQ3g2WVlVMjIydz09EqkBCHoSpAEKHFB5b2d5cUpNUWdqT0dGRXpzSUJsaGo1elNoST0SJDcwMGI4NDg1LWZlMzQtNDhjZi1hNDgyLTg0NTZiZTM2ZWQwZhgAIAAoADDBgeOx1y84/OrisdcvQPzq4rHXL0ocSVZtbmJEbi9PblRtQm82bFBMdDRmUElNTW9RPVogIh4nSDNVWjdCN1pJM3A0Rjd6VTF4QzNCTHB2bkxXYz1l4upQexKoAQiDARKiAQocUm5tNFlXZ0VBcWFaaituSGF1dFJaczhxS05RPRIkOTYzMTkzNzMtYWM2Yy00YTIyLWJmODAtZTZmNjZjZTk0YmExGAAgACgAMMGB47HXLzil6+Kx1y9ApevisdcvShwycHVjdjRhakZFbWdqMjF2a2IvY3BJWldhYms9Wh4iHDZKcnlsVDBZMUtQODVKMFU3UkpuUlZoRGoyTT1lAAAAABKoAQgmEqMBChxrSHllTkEwb2dodGhFMmNzYmJUMnB4N21lV1E9EiQzYTVlOTAxNi0yMDNlLTQwYmYtOGMyYi1jZmY4NjZiNjg2OWQYACAAKAAw4YXI2dIvOLTYic7RL0C02InO0S9KHFlYQ2dRb3dKRmVtQi9tSE1SNTAzYWliVnR2VT1aHyIdnW1kYTdVWjNQUW51aXR4N09FRmtSZU1aMDN0ND1lxzUEthKoAQgeEqMBChwvR0l0eUtjNFJOZ05KYnpsVnRnMjR5ejdwU0U9EiRhNGMyZDI0NS0yM2FkLTQ0OTYtYTc0Yi1hMTY0M2Q5YWFjODEYACAAKAAw2avNwtIvON+RycLSL0DfkcnC0i9KHFVWVHJORUNZcDgzWHR5QUZLZk1aVlVqVjRHMD1aHyIdcDB1eGUreTFPSkRWYzh5QzFQSTM2RHVzYXdraz1lAAAAABKoAQhxEqMBChxJVHhxNG9BQlJXZnJOOTc3YmFIYnZERWFpZEk9EiRiNThmMDY1ZS01MjBmLTQxZDEtYjg5ZC0xMDc5OWYwNjI1M2UYACAAKAAwhfvIrNcvOLbZic7RL0C22YnO0S9KHGMvUFVYR1BDcEJ0OFpPLzhPYlU1a3d3UXN0TT1aHyIdJmNxeVlkUUxrekQ0NXVCQ1NHZ3ZRL2dqMm5iOD1lOPk5MxKoAQiJARKiAQocWGFFZUEyTnFrZ01pRW1JOENqRG9iRjEzRGk0PRIkMjhkZTU4ZjktZjY5Zi00MjYyLTlkMGQtNDc0MGVkMDc5MWUwGAAgACgAMOy2hOjuLzjoxoPo7i9A6MaD6O4vShwwWkJLU3B0K2hmYnRuTWVhaFJvSDNwZmhTMTg9Wh4iHHlOQU5nbE1ablVNTWN6anNSRkFRaE1VUW5OVT1lOPk5MxKnAQhkEqIBChxlWU9yelp0aWRyWDErajVWWFhWVTFuWXBKTFU9EiQxNDE3NmU2ZC0wMTc5LTQwM2MtYWNjMS0zNGEzMThiOTk2NDAYACAAKAAwvYGKztEvONvYic7RL0Db2InO0S9KHEczTFRmZmtVUk9POHBDT01QOWlTSEZ6bW9KWT1aHiIceVg5MmNQWW5waklVNUxkUnEzUStzTUNlWllFPWWNY61rEqgBCBsSowEKHG0vM2pnWGwrOEZXMHpRS24zU0kwdEdEOCtPND0SJGIwYjRkYjgxLWIwYTQtNGY5Yi05NDVhLTZkNTc3Yjk1OWRkZRgAIAAoADCZyt/C0i84stiJztEvQLLYic7RL0ocLzRrNCtLVkkvdW5iZlo4N3NvaFpJNngvT2RZPVofIh0+T3pjZDJpKytFLzR6OWJUVGNNZTVGOHEyNnVzPWW2F7FCEqgBCCoSowEKHENIK0dOcW9ocWZmbmI1WmJubnN3ZkYyUGg1bz0SJGQ3YThmY2E4LWQxMGItNDg0ZS1hNjBjLTA2YTIwNzQzYWEzNRgAIAAoADDZq83C0i84/5HJwtIvQP+RycLSL0ocd2pSZnRXNlNhc2Z2Q084YzZ6bjdTWHN0Q2owPVofIh3KOERHMjgwUVpFeDk4N0wwTkVmR280R0VOUldJPWUAAAAAEqkBCHwSpAEKHFd6Z082UlZFWGhzdmltZHM1Ly96TjVZNjVxND0SJDczYTM1OTA1LTZhN2MtNGFhYS1iMTU5LWQxYjhlMDY2MTNmMxgAIAAoADDBgeOx1y84jOvisdcvQIzr4rHXL0ocQVBCSzFCZ1V0UXdUOEJvU3VCVDkzNnBIQ0g4PVogIh4nSlpNVFVsWTFBcmFKNnRWTjBwR1ZvR285RGZvWT1lAAAAABKoAQhdEqMBChxsMVBoQXFPL0EwY2pyUVlYMFhpaGtWS3lWVFk9EiRkNzU1ZDRhYi0zYTliLTRiZmEtYmQwNS1hNWQ1NDRiMDliMzEYACAAKAAwha6a49QvONjYic7RL0DY2InO0S9KHCtlamk4ekZtb0I4MzAzTzRUZEpNRkhvZmdmWT1aHyId+URzNjhMUEMyaUhNRndsL2RnbWhma25aUzQydz1lAAAAABKoAQhbEqMBChxxV3E2VzNVd29jb25aSXhyY0J4SmpJMGFJT009EiQ4NzEwMjNhYS1hNjk2LTQyYWQtYjdiZS1kMzY0MWIwMjgxMzYYACAHKAcw9/3u6YMwOPO02qTsL0Cw2u3pgzBKHEx1QVBXYlA2YnR6SlIzSmRmcE53bi9CRkdDWT1aHyId2nh1T3hLYStHMFdHVnJUUUo4NGtsNHNtY1lQOD1l+Qe/EhKoAQhyEqMBChxvaTV2S0ExdmlSRkZMSHRSaEo0QTFPM1dFaG89EiQ4ZjQ0YjY4NS01ZmQyLTRmOWItYjhjOC0xYjEyNDkzMWQ3NTIYACAAKAAwwYHjsdcvOPfl4rHXL0D35eKx1y9KHEF1cXdjVUdlMjdqUk5JUGF2MkJ4REdSTnVQbz1aHyIdJzhuTTJ4WFdhR21veGRSUTZsVkVXd3JtejU4ND1lAAAAABKoAQg/EqMBChxlNnMrVm44ekJFWmp6VThWdHdlajVSdjJTLzQ9EiQ5N2YyZDc1NC1iNDczLTRiYzYtOTllZC02NzQzYjJiZmU2MmIYACAAKAAw4sClwtcvOJ/yqcbXL0Cf8qnG1y9KHEpKSkxKc0luYXdxQzZnQmZlR0I3SzNQZ291dz1aHyIdt1pHenlJTkNJSzgwRWNXdml1ekpCYlp5a2piTT1lDSD8KhKoAQiEARKiAQocaDdZY1YwZ1cxOC8rK1IxZGlTSnRUYTZLQk40PRIkN2UwNjI2NzktMzVmNS00NGNkLTlhOGEtMzgwM2Y4ZGRhNGMyGAAgACgAMMGB47HXLzip6+Kx1y9AqevisdcvShwwNFBNVGJOTHo4Ujh5VW5CRTRNMXhsUmYyZ3M9Wh4iHG1uMzlqSkxIekx3cGt3Z2l6ZVd5SUZLbnY3VT1lNNHoYRKnAQhEEqIBChxmbG1xMTg1SDdHb1Z3allsQTdCOWJuNVhxWkE9EiQyODY3MWYyNy01YWVjLTQwYzYtOThmMi02NzVmOGQwY2FhMjUYACAAKAAwod3PwtIvOJa/y8LSL0CWv8vC0i9KHDVZNlhYWVVnOHF3dC9yL3N2ZERlRHZ4MW1Fcz1aHiIcYnVacUZKaGVQV2d4dUlZZXZ2bitlbDU5SU5zPWW2F7FCEokBCAMShAEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJDM3ZTkwMmJhLTk5YjctNTVmMS05ZWE4LTViYzU1Njc2YThiNxgAIAAoADC9y5i3nC84jcaYt5wvQI3GmLecL0oceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAASqAEIQhKjAQocSXNxTmUzb0N2ZDYrK3M4amRaRGtEWEIwU0tBPRIkMmQyMWMzMzEtZjk5NC00NTJjLWFmYmYtM2Q4N2JlZTQwM2M0GAAgACgAMKHdz8LSLzjWvcvC0i9A1r3LwtIvShxNWURtenZFV1pTQWpkTGRPRnFHVGd0NUpnQW89Wh8iHcpLTFYyeXdwdHBBdHZFZjV1bGh4Ky9CS0VDTVU9ZQAAAAASqQEIhgESowEKHFBwYTR5VXJBMCtQYnlFYTRTdXIxdkZhWVFsST0SJGE1NWVjNTNhLWUzNzItNDMwMy1hZTkzLTlhZDhhZmM5M2Y0MRgAIAAoADDBgeOx1y84suvisdcvQLLr4rHXL0ocbkhkSlVYMTFnYkdqU2Q4T0lPVUFGdVBuVDU0PVofIh3bMkhvU0tRRFdKVnB2UjVxRzVVdEgrVS9ObHFBPWUDxpJnEqkBCHgSpAEKHCtHMzFVSlc4K09vbGNlbzRiZ3J5a21RMVY3bz0SJGJmYzhiNWI5LWI1ZDAtNGFlYi04MmE1LTY4YzcwZjMyZDIyZhgAIAAoADDBgeOx1y84/uXisdcvQP7l4rHXL0ocTmNSWWxKVUV4SWFjT0Fhc3o3OW9sMWFwUFdNPVogIh4nQTdaTnRQZGdTTzN1dW1XbUxzZzFVc2pQZVNObz1l255TDBKpAQiIARKjAQocS0o4NTZCL0NuVmNEQnFTbXNBQ09mRGk4VDlnPRIkOWYwYmRkOGItZGQwOC00NTIxLWI3ZWYtMDdlZWQwYzM4NTE4GAAgACgAMOy2hOjuLzj8t4To7i9A/LeE6O4vShx1ekJ6TTVsekh1Yldxa3lSeGwveEsxK2tBN1U9Wh8iHfZ0clRseHhkMjBNenFVM1JiOEQyQkJmMTVaLzA9ZQAAAAASqAEIZhKjAQocbTNFZXI2RDJad0FtcnpGWU44UmFIYnRkVWE0PRIkMTUzNmJiMzctODQ2ZC00ODNiLWE1MzktMDQ3NzBhMDE2YTRlGAAgACgAML2Bis7RLzjb2InO0S9A29iJztEvShwxL0QyMXVEQnIzbkVzWWQrTzVwNVZzK2JGczQ9Wh8iHbxSQ3QzOFlRUXhLLytLUGRiK3ptSEV4cW5Dc0E9ZajUonkSpwEIaBKiAQocZWNkMTlqYzlMMTJ3SUp2N2s4QXNxZG1JcWhBPRIkN2EzZGI0YjQtY2I1Zi00OWYwLTg3YzQtOTM1Nzk3YmFkZDg4GAAgACgAMIaAtqDjLzjpw6yg4y9A6cOsoOMvShwwMDVmdmRqVnhqTitpcFduTjIvaENwVGUrOUU9Wh4iHGxjUnV3RSt3V1RSS3h2cWQwZ1o1L3kyQlh0dz1l2SbmHhKoAQhlEqMBChxkVmhlS2ZVeW5hZ21xWGFyT3p3SFNGL2gwRUU9EiQ1NzdmZTRmOS1lMWM4LTRjNjYtOTUwYy1iYmI3YjQ3YmNhZmMYACAAKAAwk7TE3dEvONzYic7RL0Dc2InO0S9KHFlXNUFFdksxREhzMzI5RFZrUVhhYllBZXR5OD1aHyIdmisxQ01xb2ZrRFJuREduZGtHQWdEd3pEaGpQYz1lAAAAABKpAQiFARKjAQocZ3VKVWFBRWdEckxrR2ZXVEhkRDNSRnUvS2FzPRIkODZkYzIyMmYtYWY5YS00NmYxLWFjYTgtOGM1ZTA2ZjcyMDdjGAAgACgAMMGB47HXLziu6+Kx1y9AruvisdcvShxtNmVXMW10VEx3SVdKcG1tcllqbVV6RlQzT2c9Wh8iHbZUK0hLeW0xV29EQ2QvdCtIbTR0TWxhSm03NHc9ZVbhKBoSqQEIeRKkAQoccE9YeCswMmh1Y0VPQkRPb2JrLzVNc2ROa21FPRIkNjRlNWM0OWYtMzVjMS00OTgwLTk3MmYtZDNlMzYxYWFiNjMyGAAgACgAMMGB47HXLziD5uKx1y9Ag+bisdcvShxpZE8xWjRmTmxydjg4dklRMmNBK05XV3oxcEE9WiAiHidGTGtHU0NzczAxQWF3aVhUc2hKYVczS2NLclVzPWW2F7FCEqgBCDYSowEKHHEwVTVZU2VuYVBsOThQaG5XSkwrNER3dlljbz0SJDMxZjNjMDBkLTQzOTMtNDdhZS05NGE5LWMzZDQ2NDg4MWViNxgAIAAoADCc+NWl2S849ZHJwtIvQPWRycLSL0ocUG90THVUTmpnSWViNmRjZXVzUnVnTHVNVS9jPVofIh1Ub3dUZlpNNTRDV2RhYXhJa0hzaTFiekVCZHh3PWXJmejNEqgBCBwSowEKHHZWYVlQL2l2VUZHaG1lNldkbjVITU5PcXFqTT0SJDRiYjUyYTAwLTc2MDItNDRiNC1iMDQ0LTUwMTk2MzdlZTFiYhgAIAAoADDZq83C0i841ZHJwtIvQNWRycLSL0ocSG53STNoUzA3RERZeDQyUEVXRFg3dmZtdnlzPVofIh1EdEdOVzAybXlFQXh3cU96V3UvRDdkY3VQV3NJPWXiJW5ZEqcBCFQSogEKHHB3dWlxTy9yY1ZjanBPZnVSTHNmTlVQV3Azbz0SJGFiZmRjMTcwLWFlNGItNGExOC04NWYyLThiN2E2Y2IzZmI3YRgAIAAoADCgkIrO0S8419iJztEvQNfYic7RL0occ3krNDBXMzBlL2grMjlteEpZcFY1YTBWdkg4PVoeIhx0L1JhQXF0Y1NQaVZvdGpyNzJ5Q1E5aXdybVE9ZerwjOsSqQEIexKkAQocempoNVZqdHp2ek5uL2thalRld3ZtZ1p3VHRnPRIkMzYzY2I1NGItMmQwMi00YjBjLWIzZjUtNzcyYmNjYjljYTQ5GAAgACgAMMGB47HXLziC6+Kx1y9AguvisdcvShw3SFVTTHFXeTV2N1FobW52UzY2em1hNnduR009WiAiHidJYnZDRW43NHRwTmpraHlVeFduUnY2NjgzMXFnPWWNY61rEqgBCAwSowEKHGpMa1B3Y0FZVDUzYStCZ3liM0JZMzNIclEyQT0SJDRiNDYwZDE1LWEwNTgtNGZjNy1iNDU4LTEwOGJjMmIyYjE0YhgAIAAoADCliYrO0S84pdiJztEvQKXYic7RL0ocZy9QalI2bzltbjAwY1Fsd0ROaTdyZHp0dUNBPVofIh20ZUVSS0dhM0tBdDljRndyWENWaVJWcElZTGY4PWUAAAAAEqgBCDMSowEKHDltZ0ZBeXRqQS8rb21nK282bm5xYnMwRTFvRT0SJGU1ZDUxNDlmLWJlMzMtNGM2Yy04ZWI3LThiMzUwNzRiZmIyNBgAIAAoADCTtMTd0S84stiJztEvQLLYic7RL0ocVnJ5a2hVOFU5WS8zNFovMDF3QTAxTDJBN2M0PVofIh2zUGl4T2hYeTJPTFpPUWlsKzZPOHdzeTdZSlc0PWXiJW5ZEqgBCGASowEKHEVPRG1tbGNPUWtoTkE2TkRHUUhkTCs3aTFRRT0SJDE3MGUzZjU4LTI3ZWYtNDg1Ni05MzRmLWNkNTU4OGZmNWMzMhgAIAAoADDFm8rd0i84qI7J3dIvQKiOyd3SL0oceWtSS0dDM2IwMnQvamVLSm5aZzZtejBHUS9NPVofIh3cWnJ4aStWMUlGR1k5amlja21nbVhxN3QwSjF3PWWEQ6zBEqgBCHUSowEKHDd5azYwbXd5RkIzcDhWWEpUTEZqUHZkUUZ5UT0SJGY4YjU0NGEzLWViZmMtNDYwYy1iMjhjLWFjZDgzOGM3MWRhMxgAIAAoADDBgeOx1y84wevisdcvQMHr4rHXL0ocYm01U3orOGNoeE9FWmYzcldLTjNLQ3ZJWXhzPVofIh2mNjZqT1lTNW0wckVUaDV0Z21pZDJDaVVVZjlzPWWTvmxJEqcBCHQSogEKHFQrY0JPcVJhNmRyeGUzeUlBREFNRVllbzlnUT0SJGVjMGVlZTVjLTI4YzktNGNmZS05MjhhLWQyZWE4YzI1MjBiYxgAIAAoADDBgeOx1y84vOvisdcvQLzr4rHXL0ocK1lRNDNQeUJLNmtMZXBBcTZ1UFh3aG9Telg4PVoeIhxNSnRFMlV1NmRnaG1jM2dyc1gyUVM2Tko5WDA9ZeLqUHsSqAEIbhKjAQocWUNQZVd3NEFrWWdkR1ltTlFCNFp5TmNhb1VrPRIkNWU3NjA1ODUtOGYyYy00OGZkLTk3ZGYtNTAwY2E2MTE5NTE1GAAgACgAMLrhk9zRLzi12YnO0S9AtdmJztEvShxVN3p6QlVET0MwSVJtWmhDTWlKR0pkMU5DMmc9Wh8iHSZMaXpvSkFzU3lVSGpzTkZ5TWxEL3JrWnVQcms9ZXbRCQISpwEIXhKiAQoca2llWnpsdWZrbnRleTd3ME5sZExiTHpycVE4PRIkNTk2ZDUxZTMtMjFmZi00ZGJiLTgzZDAtM2I3Mjk4MDM0MThhGAAgACgAMLLiz8LSLzimv8vC0i9Apr/LwtIvShxMbmlPa043ZzdmOEVDdFlOWkM1NkxFQ1o2d3M9Wh4iHHJQSSs2T2NGU1ZKUEJ5WWtmUDNhblNCQUJiVT1l255TDBKpAQiHARKjAQocM0RZSnhwK1ZTQW1CbUxKa0F4eHpzQVFnd0dNPRIkNWFlZDA5NDMtNTQyZC00OGRmLTk4NzEtN2I2OWE0NWVlM2QzGAAgACgAMLTv0bHhLziNucqx4S9AjbnKseEvShw3TDFCclFLM2JheC8xcEI0ekFlNEpQaFJLcTQ9Wh8iHe14d2tuRE5HWVlDeGdIczVpZDVZenJFUGZyM2c9ZaBm2+gSiQEIAhKEAQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkM2M4MmRlY2UtODllMS01ZDlkLTljMDItOGNmZGM1YzY5N2UwGAAgACgAML3LmLecLziNxpi3nC9AjcaYt5wvShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAABKrAQiBARKlAQocdWFhVU5lOTRkdkQ0dGM0VkdscTBuSHZPSmc4PRIkNzY5MGQxNjYtNzIzNy00NzU5LWFiN2ItYzExYzcyMGFjY2E3GAAgACgAMOGFyNnSLziFvsvC0i9Ahb7LwtIvShxwVURJaVZSUjRCaktMRUpIWHFmKzdyYU9nTDA9WiEiHydLLVhobi9xMzJ4WUZ5Z1BtRDVkQy9IRTNrdHVhST1lyZnozRKrAQiCARKlAQocNFBEc0xzYjNqVVJLbVVLU1M0cW9BcVhRaVhnPRIkZDRkMzcxM2UtNzAwZC00ZDU2LTljMjEtOTNkMDFhNmJhMjgyGAAgACgAMOGFyNnSLzigvsvC0i9AoL7LwtIvShxEYmpLMTVLaEhTMGJ3c3hQQml4dkloVERxczA9WiEiHydLLnBWTmpsZGlHaENXbTlKSUNYa1Jud1ByVXdWaz1ldAx9TRKoAQhpEqMBChxBUmgraG1QZlRUWkVFT2tMN214UFM3eDZDU2c9EiQyNTUzYjEzMy0yYzI5LTQxZWQtYWZlZi1lZGY3NGQxMzAzNzMYACAAKAAwmdHi0ukvOPaZ4tLpL0D2meLS6S9KHE1jclRZeGM1eEpLdXBKWUxiUHNqVGxpeXNGQT1aHyIdtkJDMlZsQjZuMjBTTVh6OHRhclFYYVBNSmpndz1lCAxKLhKoAQhhEqMBChw3Ky9JZWFPTG9vcE54b2t2U3FHZ25pK2M0amM9EiQ3OWEyZDJhMy0yZWE1LTQ0OWYtYjQwOC1hNGI3ZmU0YTA3OGMYACAAKAAwgI2H5dMvOLDlgeXTL0Cw5YHl0y9KHEhGZ2lmcjIydVRZZDMvRFlLcmRTZFBDR00ycz1aHyId7lFqdWJVejAxbnB6QWJ0am9zS3h4SVZLT2pQQT1lZDIJ/RKoAQhtEqMBChxVY0lNQ1g1Z2M4WUVRZkdrNzdLKy8vdHA5eEk9EiRmYzYyM2Y1Mi1jNmU5LTQ5YTMtOTc5NC1kOGJhMGM3MGY5OTcYACAAKAAwuuGT3NEvOLXZic7RL0C12YnO0S9KHG5pREhtdmcxTFA3ZTlaQmpKeEIyVzUxbkU4WT1aHyIdJWROejVEVFM3TFUzbDZDaklrMXlET1p1YjIxUT1lxJF2xRKoAQhfEqMBChxseEtEemNjMng3TDJHcUN1ZGdqZjJwemRpOTQ9EiQzODE4MDRmYS02ZWU1LTRlNTctOTMwYy01Mjg1NTFhYmEyNWEYACAAKAAwod3PwtIvOKy/y8LSL0Csv8vC0i9KHCsvSGVEeUJITkNWSTJJOWpnd1JYaDVFd3R1ST1aHyIduU1jbWZnMzRUSGpLRVcrdldhdEFBcWkwVVBVMD1ljWOtaxKoAQh3EqMBChwvT0UwQjBYRkF4TFRyUzhSeFdjNU9lRU82Uzg9EiQ2Yjk2ZTI0Ni1lOWVjLTRmMTktOTM5MS1lZmQ1YjVmZTRhZWYYACAAKAAw4PyIxtkvOLmVh8bZL0C5lYfG2S9KHDgxQUZOb3ZvTW5xNjhWclFMaGpxZk56NzBoQT1aHyId6TRGQldnYkZVT3ZTUlRrRmd4Mi9LODNuWWdNbz1lySrJ+hKoAQhcEqMBChxYSmZBb1puK2NoQmFJRlZZaFZuK3g1cFMvdVE9EiQyMjVjMGYyZC0yYzcxLTRjNjUtYmJmOC1iMmY4Y2E5MTkyNjMYACAFKAUw9/3u6YMwON222qTsL0Cx2u3pgzBKHDhnYlFEd1F2VVh2RWY3Rzc3MEF1TXJDN2NWUT1aHyId5UNtcTZFd0VRNTRjWTVnMTJWN0cyQ2RsOHNxUT1l6cwm4BKoAQgWEqMBChxPNEZQTGlId1NWWnIwUkJXQkxZRE85ZlUzZm89EiQ0OWM2MjA1Ny02NTFiLTQ0ODYtYTc5Mi04ZTIyNTA0MGU4MjIYACAAKAAw2avNwtIvOMCNycLSL0DAjcnC0i9KHE1ocG5kZ1RJREFZRTVXeTJwRGVxZ0VQcWRRST1aHyId3UJUT3lEdGRpNERzT2VSZTR4NE9PWWRmWE4yZz1lthexQhKnAQgrEqIBChxGeWtJc1k1VS9sWWtaK0dVWXUxZEdJNjNPMmc9EiQ1YTA5NGM1OS01YzU4LTQ1MWMtODY4Zi1hNTRjMzU5NzJjM2QYACAAKAAwod3PwtIvOLC9y8LSL0CwvcvC0i9KHFdNYURnSGlBVlcxek5oQnNmTDhaZEFIc0FXUT1aHiIcTDg4UEt5ZTN0dDdmTUpwSmxxUmJmTXVTYTNvPWXlC+tqEqcBCBoSogEKHHl3V01GbysyY0VpenNzcXVtK0JmSldZb2J6ST0SJGZhYTFjZGQwLTY4NzAtNDdhMi1hYmFlLWJmYWQyNDU1MjdhNBgAIAAoADCy4s/C0i844bzLwtIvQOG8y8LSL0ocb2MrYkNncVhRYlRSeXozSFpNdTdyOGJPTHVRPVoeIhw5Y3ZTeGFvQS9hUE5NNU1LZjkreUFiVjhlWG89ZcbDrJoSqQEIWhKkAQocNHdGWWFsbTMrYkFLQUVucEVuRkxickR1T1lBPRIkY2VhYTAyZjEtYzczNC00NmVlLWE3NDItMTk0Y2M4MzZmOTgwGAAgAigCMOvt1LT8Lzj8sdqk7C9A2J7TtPwvShxseTYzQ0U1YTJGVDczWGwwcmVIelNobml3UUU9WiAiHtleNlhReG9mZ3dpeW5PTlMwUUlmMDNkZTNCNEhjPWXA8DWqEqgBCFcSowEKHG5HVG9hbmgvekhVbFVpbE1rZVA0TFdxUjQ5MD0SJDBlYTg5ZjkxLTY4OGMtNGI5Ni1hMDI5LWIxYmRiNjJlMDZiZRgAIAIoAjD56oKz/C84vbHapOwvQPjzg7/8L0ocWGJZQnJIWVZiWi8vdHhpTndMbklIT1VIV0djPVofIh3Xd3VWSVJQSjZibENpYjFKZ0w3ZVBQWUpHQjlFPWUo0OGpEqgBCFYSowEKHFJ4VGJFMXVvTHBGSzd0RC9IUTl4QUdWQ0VwOD0SJDUxNGQ3ZWUwLTQ3N2QtNDY4OC1hMDg3LWY3NTc2MmMwYzI3MhgAIAAoADC6m7iN6C84z6C2jegvQM+gto3oL0ocTzVWR0lFU2l3ZnovMDA1eDUvOWdudmJsOHBZPVofIh3dUVZHTDYyOHBQRUpoM2Zadk1NRmMvU1psaVRJPWW6CixREqgBCEgSowEKHFA0WEJRY0hPM2d0aVBqK0wrb05oeGRpcGZPQT0SJGYzYmEzNmJkLTVlZGQtNDk0Yy1iMzQ1LTc5YmM0OTk1YTMyZRgAIAAoADCTtMTd0S848NeJztEvQPDXic7RL0ocdmhBeUZ3Q1dScHhkVXJmUmpSTlp1QnhDWGFRPVofIh3ySUUvRmpFT3VtaWUwWmR5Q3BGOHVmVnBjL3ZzPWUAAAAAEqcBCFESogEKHDFpWlQ5VDdXTkNsWWswT1EyYlZ5UnF6S2FOMD0SJGE4NzY5OTY2LTJjNmQtNDkxNC05ZTYwLWNiZjM2NTEyM2ZjZhgAIAAoADCTtMTd0S8419iJztEvQNfYic7RL0ocbWpwRno2ZGdqdU5yU2ZIbWhmQTE4OWpoRjNJPVoeIhxmVkd1ekJ4bGxvaXpTMUxRSGZsY1l2Q1FMTkU9ZWRNcC4SqAEITBKjAQocVVNQOGdLeVRHTjNIM2JPT2JqcGhtRjVLakJZPRIkZTEwNDk4NDYtYjE1Yy00ZTE3LWJjNTYtY2FjMDY4OWRjYThkGAAgACgAML2Bis7RLzi52InO0S9AudiJztEvShxnRGxQRGJCbXpUaTZIellHUy9jWVhScVJoMUU9Wh8iHblXa3NJRDFRb2FWVWRnUWFOQzBmUUNjbHp6bzA9ZQAAAAASpwEIFBKiAQocSE9pYXNnZzhIMm9EYXRQSWw3SVd4VTYxNEdnPRIkZWYyNWVjYTUtZTVjNi00NGM1LWIzOTQtZmM0MWJmN2MxZDU1GAAgACgAMNmrzcLSLziojcnC0i9AqI3JwtIvShxPVmwrOGJ5QTJPZG9MRngwbjdkVHpneHZ3T2s9Wh4iHHZNTWNFaXp3MmZqRXR5KzVBVGE0UVMxT2lSST1lzuVKWhKoAQhLEqMBChwxeitNb2RtOWx6K1BpNjU4aUdhU0JxVk9GZVU9EiQ4ZDM4ZmU4ZC04NjhkLTRjYWUtYWIxNy0yNDI3ZmYzMjVjNTEYACAAKAAwoJCKztEvOLHYic7RL0Cx2InO0S9KHEg1OVRzV1RReWhwZXRDZTBrRFp5bU5VdGtCRT1aHyId/TNTVXROR1pNQXVyMEdhcWlxbWpSdDhVdlY5az1lxJF2xRKoAQhiEqMBChxQRjVsZllkNnNWWTM3N0VkRERzNXA4NWxjc1k9EiQyNTdiZDEwYy1jYWZmLTQwMDYtYjU4NC1kNmE1NWRlNzYxNjIYACAAKAAw+9SI5dMvOKvahOXTL0Cr2oTl0y9KHEVEbGw3L2d6TDFXdGZvMXpLT1pJaVRadlFxTT1aHyId9ysxTVJWdlRQYnJDMzZMRFRBcVBPMlAxL1d3az1lp8Pq7BKoAQglEqMBChw0Y1FnSEVvQ2FBdlRDQlBzeDlPYVVrQ0tZa0U9EiRlMjgwNmRhNC0xZmI3LTRmMmItOTA5ZS1jYjhmNjc5ZDJhMzAYACAAKAAw2avNwtIvOO6RycLSL0DukcnC0i9KHDdob3k3MUJ4blFLR2szSGZ5SjhXaDdLMGR3ND1aHyIdiHlHOWJxR0VEMWVDdjByTHIyOVV3b2MvYTBrcz1lAAAAABKoAQhHEqMBChxQQjZkSlJKQzNkdFlYVjFVdU8rRXJrTTQrRGc9EiQ0OTE4Y2Y0MS1jY2EyLTRjNmEtYjEzZC00MjBkYTRlMDY3MmYYACAAKAAwpYmKztEvOKzYic7RL0Cs2InO0S9KHEUvMmZoSkNENHhlL1BMNEd2eUhNSThSOElsbz1aHyId7kRpb09QanV4NE5EVExJT2h2aE5MUWtXVEtabz1lOPk5MxKnAQhDEqIBChx0Qy9iMlFmcnlqTmhnQ1FEdEdQT2s5cy9wTVU9EiRmODYzZjhkMS02MzgxLTRhMGQtOWJkYy1lZWJhNWFjN2UxZGQYACAAKAAwod3PwtIvOIy/y8LSL0CMv8vC0i9KHE9KZDlGazc3czRyclpFbEJXV1ZtVzlkbmdFbz1aHiIcOEZvKzJLMDBCNk5qTG4xU2d2bEljM1FKN0NvPWXlC+tqEqgBCGcSowEKHDgvT0tPeHRUVXJTa0VjUFFtKzNrTWpEOGNKZz0SJDczYjM2YmEyLWFhMDgtNGVkNC04YzFiLWM5ZDdkOTM1ZGUwYxgAIAAoADCGgLag4y84ya+toOMvQMmvraDjL0ocK0VBV2VkVWhDY3hBUWdBT0ZvWXFCSXdKWm9nPVofIh3eeHpyWnV2YzhicmVMcTB6SnllNFNFZzl2MlJJPWUAAAAAEqgBCEYSowEKHDkxbWpZMlp0ZkIyK21SdEczaGFOZmR2SitHND0SJGRiYzQ4ZTIzLTk4ZDEtNDlmYy1iMjk4LTdjYTEwNmRhMmQ2ZhgAIAAoADCliYrO0S84q9iJztEvQKvYic7RL0ocb1EwQ24zeU5lZVp2RUcvc3BjYzBMKzFsUDdBPVofIh3cVTQzR3U2bURmL2tDbGRZUzZNdFhoOTRnRklnPWV0DH1NEqgBCGMSowEKHERmdm9ySG5NL0RQeWFRRU5yYjZZYjVsU1pYbz0SJGJmNWM5NjQ0LTJkZmItNDAxMS04MWMyLWYwZWYwZjg0MDExZRgAIAAoADCFrprj1C842tiJztEvQNrYic7RL0occWdydDlGKzBXT256RlBCQXJYN0NueXVEb3BrPVofIh38dG15N0RiNHFhb0R6dE10TlRyZit2dVhTVS8wPWUAAAAAEqgBCD4SowEKHDJsR0gvRW1JRkN3T2hnc1VPcVI5RVgxeE42OD0SJGE5Njc0NDJlLWI4M2ItNDBmYi1hMmE3LTE0ZWMxNmJlYTg0MxgAIAAoADCh3c/C0i84xr3LwtIvQMa9y8LSL0ocZGtzbkVqWGRHdXo5R2RrNEVBcjdRYmUwODBBPVofIh22dnc1VW10cXo4MGNXRFdyOWtYRnVqR1FDWkRrPWVkTXAuEqgBCDsSowEKHEE2aCtDb0xoUEpKZmMwSVNJU01DOGxoMFpHdz0SJDJiNjc5Y2NiLWJlNWEtNGJiNC1iYWQ1LTExZjRlNmE1OGI0ZBgAIAAoADCTtMTd0S84r9iJztEvQK/Yic7RL0ocWUQwQzdBZGZ5RmE0TS9aK0NYYmQxMGRRaGZRPVofIh01KzJrK3JhQUF4TkkxUXRobElpaFlPN1VLQldNPWXi6lB7EqgBCEESowEKHEVSZ2dSSm1uL2haSXRRTm9paWk4Q29BZTZ2UT0SJGU0OGJmMTliLThhODYtNDM4NS1hZGEwLTRlODk0OTBjNWEzYRgAIAAoADCliYrO0S84qtiJztEvQKrYic7RL0ocZVpIUEE0c1ZIVU56RC81cW9OcXo1L2xkZVRVPVofIh24ZGJUNWxUdTJzZFAxZGhmWERQUXJRWVdEYnRRPWXJmejNEqcBCDoSogEKHDhBOWZ2b2c1dWNsakRvTXdZbDA0dzVoWmF1RT0SJDA0NGQzZmI3LWQ2YWYtNGVjNi04OTE0LTZhYjkxOGJkMmNlYxgAIAAoADCTtMTd0S84r9iJztEvQK/Yic7RL0ocMS8vZHJqM3dpVE1KYU9SQlBUMHFrMHJDRHNjPVoeIhw0VE5QcndHM1g1MFhTdXRDWFFJS0hJWkpBUmM9ZSN6YkMSpwEIRRKiAQoceWFlQ2VTUnpBa2UycUgwTFByY1huUzhmMmRZPRIkOGZiZmFhZTUtOTMwOS00MTc1LTg3OTEtYTAzYWM4NzBlZDQ5GAAgACgAMKHdz8LSLzibv8vC0i9Am7/LwtIvShxGUXpYZkw2aXJaUHNKeC9zVnRxRGswVjZoUWs9Wh4iHHdUTkdHcktuYUN5eVBDMHRuZzJob2ZkSzlHST1lAAAAABKnAQg4EqIBChxrTjhkSXFobEY3cFNVVERuVzFzL2R5enozamc9EiQ2ZTVjNzZmOC1mODU4LTRhMDYtODRkNS05NjYyYTZhZDZkMjYYACAAKAAww5yjvtovONSkob7aL0DUpKG+2i9KHG14ZkJxc3pMOVBEQkhOK0VvazZ6S3lMNjh0ST1aHiIcek10b0c0TmltUStlckhyZjZyOTl6Q3FjMFZrPWXcR60hEqcBCB8SogEKHENZWDNoczlWdkt0YlJ4N3dqZnZ6Qkw1ODNCZz0SJGYyZmE0YjNkLTJmYzEtNDg5OS1hODExLWNjMTNmMThkZGIyNxgAIAAoADCy4s/C0i849LzLwtIvQPS8y8LSL0occDArQ3JWbE8xOWdQeFdHdHVTNUg4UFYzbDdvPVoeIhw4elIrTDJEWU04WFN0YnZ6aERBamdVTmJEWUU9ZcbDrJoSqAEIUhKjAQocTThYWDZjaXI5Rm10ZGZuRjQ5RE9FK0dxeENFPRIkODQ4ODc2MGItMjZjMi00OTAyLWIwYzEtZjAzMzYxZDc1OTVjGAAgACgAML2Bis7RLzi82InO0S9AvNiJztEvShxtS1hKM3V3cEZrZUpwSFE2MlpibzExeW56bWs9Wh8iHdFlVDBFd1ZpdG1SQ21Ka2ZlK0EwVWg3UXd1dkk9ZSabvAASqAEIQBKjAQocNUFWdDVaL09QQS9mVWRUOGJwejhqaWhkRGZzPRIkNmQ0NDRiOGQtOWU2OS00ZDA3LWJlMDAtMzc5MmIzZWEzZGFiGAAgACgAMIG+8/jYLziazYL32C9Ams2C99gvShx3ZVhwblRMWmEzbzFJUEdoZ0I4NGxhWFVLSzQ9Wh8iHbduNHc5QXNVOXFzNnlhOG1FVUJQaTJUT1crdU09ZeIlblkSqAEIaxKjAQocdUxNR0YxK3hHVTJRVkw4RUxXdHBwK1VoZnFzPRIkMWJlZWZhZTItYjI3MC00ZDZiLTgyOTAtNWZiN2Q5MWQzOTJiGAAgACgAMMv2/sXYLziNxL/c0i9AjcS/3NIvShxQWFZiSEJkN05nQWt6RU1qUnJoZVdqbTlXVWc9Wh8iHf41RjJ3SktpVnh5cWI3dU1naGgyb3lIaXRuV009ZQAAAAASpwEINxKiAQocWmIwSlVyNi9Xb2VNSGxrdnpzUnlBRkFwZW1FPRIkMjMyYWNmNDctZTc4ZS00OGFiLWE3MzctMjE2YzcwYzc4Mjc0GAAgACgAMOWP0qXZLzjlj9Gl2S9A5Y/RpdkvShxyY1VQZVh5WXNyQldlbE1xN2duY1gvSzJxMk09Wh4iHGNqL2xJbm5wNVQ5Vnk4Sk5tZ0tjdmFrUDNvdz1lvjWB7xKnAQgXEqIBChxJOXM3b2Jqdk9SSlNvL09jU0ZSamVkS0hCb289EiQ1MmYzZjI2Yi05MDQyLTQwMjMtYjk3Ny04Y2EwMzI5YTM2MWUYACAAKAAwk7TE3dEvOLbYic7RL0C22InO0S9KHHI4NlNKQlRZNUJHUDhNRHNpRWYrMTZ6SDQyRT1aHiIcNUlpbjNNNy9BdWIzS2VxeUlHTFhOQkRZVnpNPWXO5UpaEqgBCAcSowEKHDI3QjEybytyMlFPbGhRYUkzbXUxZGpZVGtnOD0SJDJjYjBiYTEyLWJiMGYtNDY5MC1iOGNhLTJmNWNhZjNmYWZkORgAIAAoADCw6Jvl2y84y9WY5dsvQMvVmOXbL0ocazJvYXQ5U21DY0J3L01qbGRmdk9aR1BhMlljPVofIh25akFGcVVmZG84ZXk5QmI4MllvV2pwN3VsUkJBPWUAAAAAEqcBCDUSogEKHFNCNEg0eWhMdTNvdGdsYXBrTXFWNjJ3aU9ubz0SJDY5MGZiY2FmLTRmZWEtNGJjYy1iMGM0LTY3ZDMxZWRhOGY0NBgAIAAoADDL6cul2S843t/JpdkvQN7fyaXZL0ocSllpMmZoVW13dnIwQnozMjZORm1Wd2pucUtRPVoeIhxGU2xCYjdJdWdkSjVrSDRWTWkrZ0RNSUpjZTA9ZbJ4m0ISqAEILxKjAQocTXFsQlNoaTVCMVpieWZ6Q2ZFd0tNTDdwTzdvPRIkMjUzM2Q2ZmMtZmQ3Ni00ZDM1LWEyOWQtNjgxYWM0ZmEwYjIzGAAgACgAMOubybj1LziR0si49S9AkdLIuPUvShxJK0ltU1FaZDU5eFgrUzUyaGJXbDBQTkhadDA9Wh8iHehEK3pHMTBEZVlBTXBhV0J6TXFZNVV4eDgzOU09ZamRkMoSpwEIMRKiAQocSkRLSVFhZTZaZTA3UUE4QWpGQXZiUmJ3K0FVPRIkN2QwOThiNTAtZGEyNi00ZWM1LTgzZGUtZDA5M2E0MTRjNGI0GAAgACgAMKCQis7RLzi32InO0S9At9iJztEvShxmS29qR1djSUYzNFdqOWx4VXBBUzh5MDIrb1U9Wh4iHFdjbGNhb2JwVjM0K2lXMjJwZFV5RnZ2Z1RvZz1lxsOsmhKoAQh2EqMBChxJY1dtNkZ3UmxkT0ZZV0Z1Ylg1VnlwNFhGQ2M9EiQyMzUzNjVjNy1jY2FlLTQyNDctOTU1ZS0zY2NiNGE5NjU2YzAYACAAKAAwwYHjsdcvOMfr4rHXL0DH6+Kx1y9KHEVLSG1OZll3N0EvQmlldGlsbERLeEk1YVBYdz1aHyId0zNDeXh1ajZsZjZ6RzBMV2Z5cjBXaFhXbHc4TT1lNNHoYRKnAQhQEqIBChx5ckNpNUdhWmdrMHV0ZzZ6Y3hzOFVTb1pMOEE9EiQ1NGY5YzQ0Zi03Zjg1LTRiY2UtYjYxNi04MDgwYzhlZmQ4OWYYACAAKAAwvYGKztEvOLvYic7RL0C72InO0S9KHDFzUVZYeUNWVmdLLzdzNnZrazZSUnZ4M0pLdz1aHiIcRnZRTGtSaE1hTVlnNkFubSsvQ2hDUGJzdzhBPWUG+6CzEqgBCDISowEKHFY5dU9ubytRWE5RUmx5S210WDlFc21VTTNPUT0SJGE5NzhiNjJhLTlmMzktNDFmNC1hYTYwLTRkYjQzZmI1YzFkYhgAIAAoADCTtMTd0S84sNiJztEvQLDYic7RL0ocMWd2K2xLZmVtVGlWeXoxNGl2aDZwWWQvVUFBPVofIh2vVlpncFMrWHEyQ1ZleUJpa2JCMDZqL3BPUXpNPWU4+TkzEqgBCDASowEKHGxnek8zU0dHZWh0YlVkWVlmWkxXeld5K0daST0SJDBmMjBiMWQ5LTUzY2ItNGVjMi05MWVmLTc4MTIzYjdhZGI2OBgAIAAoADCTtMTd0S84ttiJztEvQLbYic7RL0ocN21iQVdKMjloMitJVWNNQ051OHpTM1VlMDBrPVofIh2mNHNubjRPK3dDRFZBVEpUamQ1Mzgyc3FxNVAwPWUAAAAAEqgBCC4SowEKHFkxc3RTdGN5THVzTFZwSElvWlVvcHh1ZmpzZz0SJGE4ZDcwZDFiLTY5MmMtNDA2OS1hNDI0LWQwNGNkNWJmMmU4YRgAIAAoADDZq83C0i84i5LJwtIvQIuSycLSL0ocZHZtR2U4VW5wZ2NvWlpSTGRQeDRvNis1TEdZPVofIh3Qb1gwS01RMW5WamR3TkI0Y1ltQ1MrVVJaZGpNPWU4+TkzEqgBCE0SowEKHExydmhkMU9Zd2NPMmptbTdMbnpSNnFNRFdWUT0SJDE0MWY5MjIzLWM0ZmYtNDFlMy1iNTc4LWM3NjI4ZDIxZTIyZRgAIAAoADCh3c/C0i84oL/LwtIvQKC/y8LSL0ocQTRoQ3p6OW9OUjUxRHVnY0lTZXJjbEVvdGNNPVofIh0aWjZmM2gvYVNvQ2FyNEFGYnlIZ0hqK2QxOWJzPWU4+TkzEqkBCH8SpAEKHDRsbUFHWWE2cmIwalg5T3ptUTJ2RnJzaktvMD0SJGQ3OTE3ZWE2LTMyYTgtNDM2OS05OGMxLThiNDQ2NmU0MTUzMRgAIAAoADCrrMjd0S84tdmJztEvQLXZic7RL0ocRnRqbyt2TklBNENXajl4c2JLb1VBdmFIWFlNPVogIh4nSytnZmRwczBtNWR5a0M0aGpicDRpUFo0Q3JpYz1ldtEJAhKoAQgZEqMBChxwR1pkMlhDZDdpQ2QwcWltdU16S2RDSTFVakE9EiQ3MTNlMDc1Yy0zYmQ0LTQyMTctYTU3OC1kM2NmMWFkNWFlNDMYACAAKAAw+NjIwtIvOOq8xMLSL0DqvMTC0i9KHHhCNEUzdHlHdFZLNjY3Vjg5U01NQU44OGc2dz1aHyIdN1d1MzZybkhKRU5FV09zTWUvc0VoOVJBNVNZUT1lAAAAABKnAQgFEqIBChx5NTVrVWY1cEJUeDdTeCtlbG5rMnEvTklXcHM9EiQzODAzNzhhMi03NGMwLTQxYzAtODI5YS04YjlmMWY5YTg2YjQYACAAKAAwk7TE3dEvON3Yic7RL0Dd2InO0S9KHHRXaG1iZ0Ztc25SeGR3cEdyTUQxM0RnRnFldz1aHiIcR1dEWGwwNHNVdVJBQ2ZOZFo5YWNoQmo0MFFjPWUAAAAAEqgBCD0SowEKHEE1bldNTWhBaTgxSFZuYkpTRUM0OUVZZWc0Yz0SJDg3M2QzNGNjLWY4ZDAtNDU4ZC1hZTg4LTRjZThkMTdkYWUyZBgAIAAoADCliYrO0S84rdiJztEvQK3Yic7RL0ocOS9ub2p2SXpvWVJZTS85N0JDd0Y0MTUxMCs4PVofIh2bNHU3M0R0NzM4dnRHd2k4R21KamNrOVpUYk5nPWU00ehhEqgBCCESowEKHHFseUpwY21BaTRnM0VrR2Q1eEd1dXRxaVhpRT0SJDA5M2U5Y2E2LTllYzUtNDkwYS05ODYzLTZjNmY3ZmQ0MGFkYRgAIAAoADCy4s/C0i84gb3LwtIvQIG9y8LSL0ocZTBiNm9oWmZIUi90cEQycm4xYmNMRjlxZUZBPVofIh3OQ1dlRTM3dGxDbG9Za2pmUVQ1WjBvN2JEQktrPWXi6lB7EqcBCDwSogEKHDVnZFVwMFMzVENLN1N6d2luMFBtZktsbklVOD0SJDExM2ZmNzVjLWEwNjQtNGI3My1hMDAyLTJiMmE5MmQ4OTczNhgAIAAoADCliYrO0S84rdiJztEvQK3Yic7RL0ocZG1rbzgxSHBIWExxTzNBb2ZjL0N4bEg4ei9JPVoeIhw3MTBjZTBqeW5qYkNpOTl0aVdIektxRE1rUE09ZZO+bEkSqAEIERKjAQocVXd4RnFZZ0hPVDhkVjdzcHNIVDlXTTFEaFlvPRIkMTgxYTMwZmUtZWNlNC00MzJkLWJhMzktZjM2YzEzMTI0NmRhGAAgACgAMPGo2u3XLziP9tjt1y9Aj/bY7dcvShx1QXhlZUVGdDlrRW81cVRxMi9MQmtpdW5IMnM9Wh8iHe1uYTI1UWtjcTJ0QnVmQ0UzWHVldDlKSjJEY2c9ZTj5OTMSqAEIIhKjAQocRUQyZW1qWTBrbzE5S01TZ1Bic1BndVRxL0pJPRIkYzMyMGU3NjItYTRkYi00ZjAxLTlhYmQtNjg5ZWIxODljNzY0GAAgACgAMLLiz8LSLziLvcvC0i9Ai73LwtIvShw2RlByOHNwekFQaVRocmEzNXZyWjY4R2dZdDg9Wh8iHecyRFFLR3RIR29rVmkrTlJ2UkNFZUkwejdNQTg9ZZO+bEkSqAEIJxKjAQocY3B0cGZSZDA3WEZKSmlsVVZCc3hqamU2UTZzPRIkNzg2M2QzMzEtNjA2ZS00NzlhLWEyMGItZmJjYzAyOTBjODc2GAAgACgAMNmrzcLSLzj6kcnC0i9A+pHJwtIvShxkQXNVWUdiMFloUWc1UlM3K21NYjQ4RUo5RW89Wh8iHcIvWXdjNkkxaUJmUnN1dENhMGZVNjRUa3VzMUE9ZQAAAAASqAEIKRKjAQocVm9iUDRndTN2YVF3WVhJa3Q2T0N6MzYwN1NJPRIkOGJmNTVhMTctYWU2ZS00Mzc3LTgzYzEtYTczMTUwOTNiY2FjGAAgACgAMKHdz8LSLzirvcvC0i9Aq73LwtIvShwxajZqM3FOdlp2YjJCekcweVdTcUJOQis5Rm89Wh8iHbxjS2RJUk9COWpxRGVYcnR0MitCdGNlSDlXNkU9ZY1jrWsSqAEILRKjAQocQUFCbWRNWVhFSnpCMmVUM0FOWkFmaUpXUFRVPRIkYTZmYTNjYjktYWJhMC00YTk3LTg1NTUtNjYyMThlYTJiMzhhGAAgACgAMNmrzcLSLziFksnC0i9AhZLJwtIvShx3T3J3REFiRG5HeUJRZzliR0ZsSzZkY0hrZ2c9Wh8iHc4ycFc5TEpYRE5oa3UrNXkrV2xPdFNFSkl4eWM9ZXQMfU0SqAEIahKjAQocVFVMbEdwOWVweUkzT2c2V1FqbHFDeFc4MUY4PRIkNTI2ZGU3YWQtNjk2MC00OGU0LWFlNDAtOTU0ODEwMDE2MWYyGAAgAigCMPnqgrP8Lziesdqk7C9A/PODv/wvShxZZGtmRy9FR2t4UzR4cStZdy9VcUNEQW9lS2c9Wh8iHf0zNUZldEdBQ3YvQkRsOEJaUzdobFQ3RGhHZXc9ZaBm2+gSqAEIFRKjAQocdHc4a1RrbFlUREJzejRNWlRUcG1DeW5GM1lZPRIkZDEwMWFlYTktOWNmMi00Y2FmLWJiYzYtOGEyMDg5OTFhNDA1GAAgACgAMNmrzcLSLzi5jcnC0i9AuY3JwtIvShx3SWZ6a2dlWkJRK2pFb1JWdys3NEVkRXlYK0E9Wh8iHbtWMFUwN3YxM1pvRGprZG9HSFRocjFmbXp5bkk9ZeUL62oSqAEIGBKjAQocY0xIdGxZOXAxMThCcXdoZmRtN1cwM1ZHN3o0PRIkZmU0YTdlMDMtZDVhYi00YjFiLWJmZjYtZWE2Njc3ZDBiZDE4GAAgACgAMOGFyNnSLziz2InO0S9As9iJztEvShwxTGRmRlo3eGU2V1JUWVkyanNPZFk3R2ppbzQ9Wh8iHTY5WWJBbUE0Rm5ta29Gdm5NWTNualJqMWVXRXM9ZeUL62oSpwEIcxKiAQocbDdWWFpXaUR3WDlLU3dXWFh5cnZYVTBWRFlZPRIkZTk0NzU3MTktZTY5Ni00OGM0LWI2MTQtN2Y4MDZmNTAzNDBjGAAgACgAMMGB47HXLzi36+Kx1y9At+visdcvShxrdTk1b2ZVV2tSY2FGdmszanl2WmZyYWZnWUE9Wh4iHEEwSE5kVVQxdEFCaFk5NnlSME1JZFFiVzhvTT1lI3piQxKnAQhPEqIBChxxUml1L3paV3VJWC95UWFIWjgwWVUrang1Q2c9EiQwOWFhNzQyMC1kNDYwLTRlM2UtODg3OC1jNmNlYTA1YmQzNzEYACAAKAAwk7TE3dEvOLzYic7RL0C82InO0S9KHFREeFBCc0pDdzdwTTJVMHRHVWY5WHp4Q0NGRT1aHiIcOGp5RGF3OFFwdnlCS1l3RUFnYUM1dlJKL3BjPWU4+TkzEqcBCFMSogEKHE01aVlGNEsvREFHdmlJejNwdER6WW5nbzgwRT0SJGU3NjZiZDFkLWEyOWMtNGQ1OC1iMTM3LThkODZjODZmNzcxMRgAIAAoADDiwKXC1y84pP3CzdYvQKT9ws3WL0ocRWoxc3pXUll0aURzREVXYk1jWkpBSFNWcXg4PVoeIhxDZXpYUzZSUVN4VDBqTVlFelMzTDI4clBaaE09ZS975xwSpwEICxKiAQocT0dPZjdYNkFmSytYcXJaa0paM0xiRGlXajNzPRIkM2E5NzcwNDEtNjcxZC00M2M3LTlkODgtNzAyOTFiMjQ4ZjllGAAgACgAMKWJis7RLzil2InO0S9ApdiJztEvShxNY0F3Z3VTYUl5Q0QzNk1NZWIyTVB2ZmU3ejQ9Wh4iHGljdjkxQitBTlRBOXdQWW5DS1ZBK3Bkbzdhbz1lCNLtYRKoAQgTEqMBChxTSHFDdXN0M3Z6ZkQ1V0RwMkczWmNuckd5Unc9EiQxYjQ3YjY2ZS01MjM1LTRmMGMtYTZkMy0zNDkzNDgzZTU4YzgYACAAKAAw+NjIwtIvONi8xMLSL0DYvMTC0i9KHHN4Mmg5U3k4SkFNa2ZRQUZ3OFovaExPQ2pwST1aHyIdGlQzeHJ0ZEJFWjN1Z3VSVGhmMGViV3NmdG1EUT1lAAAAABKoAQhVEqMBChwvOXgva2N2aSs3SVc1dHVqZjk5NWsvRzFVU3c9EiQzNzU3NmY1My1mODBhLTQ4MTYtYjc0Ni02ZmYwMjA1ZjIwZDkYACAAKAAwn6XqnuMvOOHt4J7jL0Dh7eCe4y9KHC9rSy9YZjBXUEEweXhyUzRCL3dsNlcxcWdOdz1aHyIdukk2ckp0NEhmUmFaWlZKdGhxaVdDQ3JOVk1DQT1lKW2WthKoAQhsEqMBChx0Z0dlSngyY05ZWG83S0F3anZGTi9YN0NGMU09EiQ1NzJmMTJkMS0xM2RhLTQ1ZGEtYjNkMC0zMzVhOTQ2ODBkNTAYACAAKAAwm4jk8uIvOK/62vLiL0Cv+try4i9KHGhDVW5QTDdJZWZxYUdGN0Z6NDNsUGpwZlpBdz1aHyId/zhzdnY1NWJUaml6ekZyaTZwM1lZUWhiQ2thZz1lAAAAABKnAQhKEqIBChxKSzJmamhSUUQ3c1pTT3FCYWlFYStGeVF2YnM9EiQyODgxMTk3MS0yZDg3LTQ3NWUtOWZjMi0zMTlhYmU3MDM3NDEYACAAKAAwpYmKztEvOKXYic7RL0Cl2InO0S9KHGpQR3E3bzNQNUkzZ24zbXZpY3hJZFZGQklkaz1aHiIcNEIrR0lXbmhINFdsNDNWcHlrSmN5cUxUN2VzPWXEkXbFEqkBCHASpAEKHGRMeVJwMUQxaEhueVhtTHFOL3JoY0tiUFJrND0SJDBjODliNjRmLTIwMzQtNGM5OC04NzBlLWFkZmE2NjQ2NDJkYhgAIAAoADDBgeOx1y847+XisdcvQO/l4rHXL0ocbHNIYzdjdndkZzdMMVBoQXJyQWkvc2JFb2VJPVogIh4mXUQxbEhvTEJBTE1RMkpaRFpYUTNYdWducVIzYz1lAAAAABKpAQiKARKjAQocSXZjZWJ6QUE0QjY4YUY4ZXFUQk1yWjFDem5VPRIkMGRhNWQ1ZWMtNDBiYi00NDBmLTk4MjItMGFkZDE2MDYxYTA1GAAgACgAMPf/iYz8LzjImPnk7y9AyJj55O8vShwvYzdaL2VxNG1VKzlhYVhneFNabGp4V1ArdDA9Wh8iHbxXN1dmRzZRNlFDWWFHWjROa3ZDcHliS2s4eHM9ZaBm2+gSqAEIEhKjAQocRkh4YjhtckZmcjNWZW9VZzB6YmlVK29TbmY0PRIkN2M2NWM2YjQtY2VkMi00NTg5LThhYjMtYzMzNjdmZjkzMDcxGAAgACgAMJO0xN3RLziy2InO0S9AstiJztEvShwyUEk3TGF2NmQwMGNoZENjOGlUZFFReFlydkk9Wh8iHZRkRXErRVIzdEdUTnVvVTV2Y2U4WXAydTEyT1E9ZQAAAAASpwEIHRKiAQocbnZmbXk3Q0t1OXYvaTA4ejZnTjJFOUZ6cmFBPRIkYzVhYTk0ZjItOGZjNy00MTBkLTk0MTctOTViNTg1ZjdmMjM0GAAgACgAMOGFyNnSLzi12InO0S9AtdiJztEvShx2U3p5azRCd2ZoTDBJVmZ5djh5M3BId3V0cms9Wh4iHE9aOGlhY0ZmbzNuRW1Hc2ZkNUZqYmlTdWpBST1lOPk5MxKnAQgJEqIBChwzaWlJNFBxOWVxdllhWllWSDlVTjMyWFlrVms9EiQ1MzIyNDA1Zi0wOTdhLTRjNGEtODUxYy05MjRmYWEzZDEwYjIYACAAKAAwpYmKztEvOKbXic7RL0Cm14nO0S9KHHYxcVY0ajFuc0lkeUMydzQ0QWEzek1LLzFmOD1aHiIcclovNGNzQzQyNDcyVjN4Zm44NnMrdCs3RkZBPWUAAAAAEqkBCH0SpAEKHDJ0QmFLR0N4OU5kTUNEWVhmZ2dzMXdSZnhJMD0SJDMxOTAyZWFhLTg2YmMtNDQyMC05ZDRiLWUzMjVkYWM5ZmNlMxgAIAAoADDBgeOx1y84j+visdcvQI/r4rHXL0ocUVJ4cFZvVGRVejExTkpBcXQ1cnY2M3MyLzF3PVogIh4nSnRKU3hsT3l2SlBGV09VTUc2YUN5dGRuUjRWST1lAAAAABKoAQg0EqMBChxicUVEZ2JPdFhqdGlMUHJXMG50TkpKNU5QMjA9EiQ1ZTU4ZjhjMS0zNjU2LTRhMjQtYjdiZC00MDA5NDE1NjIxMmMYACAAKAAwqrLYpdkvONXpyqXZL0DV6cql2S9KHG9Xeko2TnB1dWJlODBtbEpjT1lVMk1aNDJwQT1aHyIdtFI3UDNmWTNraklFMXFDM3dydXJkRnlha0UxQT1lAAAAABKnAQgNEqIBChxHQ1FyVmV5MEVOSldQNTVHcy9mY3JQalVuZlk9EiRiZDZhNDE0OC04OWE5LTQ5MDUtYTJjNy03NjgzNThmNzJjMGUYACAAKAAwpYmKztEvOKbYic7RL0Cm2InO0S9KHHdkMGw1Y3ZiVzNRbU5TUEgvSUk3ZnQ0a1Z6ND1aHiIcYnJwZEZIQTdFdWc0MXFtWlVHWlU0b2x4dTNFPWUAAAAAEqcBCAgSogEKHFpTTWZtSldvMzVNQkxzaFlSTVBEaStqTDh5Zz0SJDA4NTQ5MTRhLTQzNzEtNDMwOS04NTVhLTY5MWRiN2JjYzVjNhgAIAAoADCw6Jvl2y8478KX5dsvQO/Cl+XbL0ocSklOZFJKYkozUW9haUNCdDlUT3BkSHpRSnlVPVoeIhxsRXhnRXJTY29pU1BXL0pNR25IVzJNUnRDTm89ZQgMSi4SpwEIKBKiAQocemlramY2VStNdGI3RGNvNGwva0FYeXgvdmdzPRIkMjJlZTE0MTEtNzU1Yy00Yzc0LTg4ODYtMjA5ZmI5MzUzNTFmGAAgACgAMKHdz8LSLzilvcvC0i9Apb3LwtIvShwyZWJ4VGIzaUxGSHkzOXh3UzJvRUxuV2ZURGc9Wh4iHHhtQVlNbyttelFOeGZQT1pjVms4QjlJUnFzZz1l255TDBKoAQg5EqMBChxKK2VuYXJIU3lodnJWZ1pMS2p2eDU3RHJjdEU9EiRmOTI2NTQxMi02ZmU2LTQ1YzUtODdjOS0wNDNhMjc4MzAyMzkYACAAKAAwk7TE3dEvOKzYic7RL0Cs2InO0S9KHGNIbm5kekpmT2RFZ0pVZGVkVE1JVnNBemVZND1aHyIdtTdwcU5iRUFzenBqL0dpYnhYbVJUdWx2TEVXdz1lAAAAABKoAQhZEqMBChwydm4ybFdnTXNjNVYvM3YvNE1YVmR2THBjQ2M9EiQ4ZmJmNzY5YS0wMWRkLTQ3MTYtYTIyMS0wYTg3YWZjYmEwMzEYACACKAIw+eqCs/wvOO+w2qTsL0D584O//C9KHDJ3KzZmdzN0TVI3TW5aZkJtK1BPR3d3d0tyVT1aHyId2UR4Mkx5MWNySTN0S29DR3dZMnRHMTVEOWZtWT1lJ2t7qhKoAQgOEqMBChxLMEV5U3Mzdk93b3ppYnp5WDRlM2twaWVYSkk9EiRkZDVkMjMzZC05YTk4LTQ3ZmEtOThjMi1lZjE2YmZmMjIxNzUYACAAKAAwpYmKztEvOKbYic7RL0Cm2InO0S9KHGo4djJrRTNNcEdMUHZNS3NLSE9XOXVGRlhOWT1aHyIdsUZzekVpZXBoNzlVM2Zsc0dSbnhMT1FqQmVSVT1lVuEoGhKnAQhOEqIBChxoUDFzMmluZXlKbFVEYVVFc2FjVCtnMzd3U1k9EiQxNTgxZDJjNy0xOTMzLTRkYmItODU3ZC04MWE4OWYzNjhiNjQYACAAKAAwvYGKztEvOLnYic7RL0C52InO0S9KHFF4a3BSTEtKMTl0RjZuN2FLb3g0aVhpU0lDND1aHiIcNDRjWU5VT0t0emM3L2lvU2lTSWxYazV3S2FjPWUAAAAAEqkBCG8SpAEKHGRlR05Lak1ieXJ3blpxOGNMWVV2OFlJU3A1dz0SJDYzMTIyZDg0LTk0YWItNDc2NC1iYzRkLTMxZWUwZDI4M2ZjYRgAIAAoADDBgeOx1y846eXisdcvQOnl4rHXL0ocaTdyTEowL2R3bjUxY0wxNWUzM1J1anFsZDdjPVogIh4mV3JveElvaldvcUQ1ZkliVG53bU9LSmZ1Z1RSbz1lI3piQxKnAQgKEqIBChx1TUt5bGhkVmNzN2hWcmpkdVZhUCtFdGYvR009EiRjM2UzYmFkZC0wOWY4LTQ3NzUtYTI4Zi02N2Y0ZDViMzI5NDcYACAAKAAwpYmKztEvOKXYic7RL0Cl2InO0S9KHHRWSkpaNnpha3hmcWo3Z2xlOUdzTWtkOW5hOD1aHiIccWtPT0NLWG5ZT0R3UWx6WERiQzNna1E0MGNJPWUAAAAAEqcBCAYSogEKHEtRWnVVckExc3hpaloxd1JrRllTR283eHkzTT0SJDc4NDgyMTMxLTNjYmEtNGM2YS04OWFkLWU0Y2U5NmJkOWVkMBgAIAAoADC9gYrO0S843diJztEvQN3Yic7RL0ocQ0NSU3U5a2lFeWdDdnJEeHNrd2NJelZSUFAwPVoeIhxzQmJzL0lFcTZWZkVJelB1YmxOUm1QOXdONUU9ZYvHgmASqAEIIBKjAQocUzl5L3g4eVIwc1JGcEoramxNWUNuQndndlVvPRIkOTdiMjI4ZTgtZDI2ZC00MjhkLThiMjgtMGZkNDhiNjI4ZDE0GAAgACgAMKHdz8LSLzj5vMvC0i9A+bzLwtIvShxpQzFZbkFHRWl0OUlRRlR6T3NLTHBUb2J0a289Wh8iHZw1dzZYV2ZEbmJLeHJVU0Vnai9nOW1RM04vN2s9ZSN6YkMSqwEIgAESpQEKHHlUc0lQbnRVR3c2MjJKcExEMUNNVi9tTDBFND0SJGYyNjllNGY1LTcyYWYtNDJiNy05N2RmLWQ5Y2JiZGMxMDM3NBgAIAAoADDBgeOx1y84nOvisdcvQJzr4rHXL0ocRitIbXQwZlRlS0tpMlI1bzFoNmZzeW5uWFkwPVohIh8nSyxMTHo0d0hHd2lQV0tvazFob1lFNnZFYVlOcW89ZQAAAAASqgEIfhKlAQocQjVvS0pGdHQ2bkVVVUFiNU8rRUhKdjA1NDlzPRIkZWFmNWQxZjQtYTQxMS00N2Y4LWFmZDItYWEwOGJlMjgwOWE3GAAgACgAMMGB47HXLziV6+Kx1y9AlevisdcvShxYdzc0MjBxa1lmcW9DOFNsZGVpeS9YWGZmb1k9WiEiHydKukxWTkRHaHdRaWt1aXRXcVBLYi9kTDlYanRBWT1lk75sSRKoAQgPEqMBChwwNnc5RjNPaUZGZEhQeWJIQVhOU0diYzU4cjA9EiRjNWRjZTc2MC02YTEyLTQzOGQtOWQ3My1hMDAxMzc4NGE0MmIYACAAKAAwpYmKztEvOKfYic7RL0Cn2InO0S9KHFhDTjM0SFNKVXVPQ204MkFpVWZyWmlWZWJPRT1aHyId2GRzWk94a3Q2d0NBdzhIdHZPa3hkQjJOejRqWT1lA8aSZxKoAQgjEqMBChx4NUZlaEU0cEhiYjZEVnFMcExhSWVaU250dDA9EiQ2ZTlhODQyYS05MjJkLTRlZWItODU5Zi05NjdjNDM5YjllMzAYACAAKAAwod3PwtIvOJC9y8LSL0CQvcvC0i9KHDZ3cnpnbWpmS3FKZlJtQlNEdm9vOFRabFJsRT1aHyId8zhzTllUM0RlWlpESUExdUFFZ3g0OXNJRnl0bz1lNNHoYRKoAQgkEqMBChxvZTRyZXJIV0RyYUNvZml4cHZqTERGREErVlk9EiRmYmY1MzQ2NC0zYzcwLTQyMjMtODRlZi0wODI1NzE3YzhlYzMYACAAKAAw2avNwtIvOOiRycLSL0DokcnC0i9KHFJDN3lNaWNTZHRsK2ZYNTd4T3BvMWh2WnJycz1aHyIdgDVsRTFWQWt0NVFpZGk1STBVVDlOcE1jNE1NMD1lZE1wLhKnAQhJEqIBChwwT2FpblVSNFJVM2R0V2V4MThSLzlzYWFzUFU9EiQzZWEyNTA1Zi02NTM5LTQwZWMtOGJjZi0wZjU3NDEyYmY2NTIYACAAKAAwpYmKztEvOKLYic7RL0Ci2InO0S9KHFNkMlFSOW5jc0g1QzdXVUpFanRVSm1jYTdGTT1aHiIcL0pQaHo0SmNxd0FZTFJJR3AzQXhHdVBjWUs4PWW6CixREqgBCFgSowEKHEZscERpN3hvK3laY1cvZG5hVEZSYmhLVmo2OD0SJGVlMDY4NGM4LTFhYWMtNDk3My05ZGQzLTU3OWY2ZmUwZWYwZRgAIAIoAjD56oKz/C840LDapOwvQPjzg7/8L0ocTlZ4RVE5dW1zMXJGTDhld2V4ZldXRTh0WkhzPVofIh3Ya0h3RkdRMkdSSklLdUxBcG0vdWloNDFQZXBZPWW6CixREqcBCCwSogEKHGlLa2F6QmdTWVhqOGJMWTF5WVVRVUpOSGFIQT0SJGYzYjY2ZjZmLWVjNjYtNGJjOS05YTBjLWY2NjQxNTk5ZTRmORgAIAAoADCy4s/C0i84tb3LwtIvQLW9y8LSL0occFpXZTZ5RS9RQ2tRVTduMlp2WFpObnFIMmtRPVoeIhx5U1VqaUorZlBZSVhQTUZoS0g2Yi9DMGh4bzQ9ZbYXsUISqAEIEBKjAQocTVFkOFhtd2lONHNpSW1wU3Rya3pZektrbFlVPRIkNDAzOTJlMzQtOTU3Yi00NzE3LTlmOTItNDc1ZjdlOThkYmVjGAAgACgAMKWJis7RLzip2InO0S9AqdiJztEvShx2UjJ2allXVUQwYzYvM0pPL3BTalVHQ21rY2M9Wh8iHdpLZXE3d2RYK0NnTXlkaFByNkRENGFwdDh4VTA9ZSBxrXoSiQEIARKEAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkZjkwNjJjYWUtODRmOS01ZjIwLTlhMmYtODJiM2UwOGI3ZmRkGAAgACgAML3LmLecLziNxpi3nC9AjcaYt5wvShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAADAAOClAkevIo9Av",
+   "version": 1
+}

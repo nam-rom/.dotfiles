@@ -1,0 +1,5 @@
+2022/06/07-16:34:43.958 d37e Recovering log #614
+2022/06/07-16:34:43.959 d37e Level-0 table #616: started
+2022/06/07-16:34:43.970 d37e Level-0 table #616: 287 bytes OK
+2022/06/07-16:34:44.001 d37e Delete type=0 #614
+2022/06/07-16:34:44.002 d37e Delete type=3 #612

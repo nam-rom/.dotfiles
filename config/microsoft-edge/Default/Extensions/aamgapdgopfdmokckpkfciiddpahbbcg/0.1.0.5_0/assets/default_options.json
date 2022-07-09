@@ -1,0 +1,34 @@
+{
+  "categories": [
+    {
+      "name": "Dictionaries",
+      "keywords": ["d"],
+      "urls": [
+        "http://dictionary.reference.com/browse/%s?r=75&src=ref&ch=dic",
+        "http://www.collinsdictionary.com/dictionary/english/%s",
+        "https://www.ahdictionary.com/word/search.html?q=%s"
+      ]
+    },
+    {
+      "name": "Movie Reviews",
+      "defaultCategory": true,
+      "keywords": ["m"],
+      "urls": [
+        "[Google Feeling Lucky] imdb %s",
+        "[Google Feeling Lucky] rottentomatoes %s",
+        "[Google Feeling Lucky] roger ebert %s"
+      ]
+    },
+    {
+      "name": "Shopping",
+      "keywords": ["s"],
+      "urls": [
+        "http://www.amazon.com/s?field-keywords=%s",
+        "http://www.ebay.com/sch/i.html?_nkw=%s",
+        "http://www.newegg.com/Product/ProductList.aspx?Submit=ENE&Description=%s"
+      ]
+    }
+  ],
+
+  "useGoogleAutocomplete": true
+}

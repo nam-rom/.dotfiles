@@ -1,0 +1,92 @@
+{
+   "context_fav_selected": {
+      "message": "Save text favorites"
+   },
+   "context_menu_empty": {
+      "message": "empty"
+   },
+   "context_menu_favorites": {
+      "message": "Favorites"
+   },
+   "context_menu_recent": {
+      "message": "Recent items"
+   },
+   "context_menu_title": {
+      "message": "Clipboard History Pro"
+   },
+   "context_save_selected": {
+      "message": "Save text Clipboard History"
+   },
+   "context_send_selected": {
+      "message": "Send text to Mobile cloud"
+   },
+   "export_common_error": {
+      "message": "Cannot export history: unknown error"
+   },
+   "ext_description": {
+      "message": "Keeps your Clipboard History and allows to rollback any item"
+   },
+   "ext_name": {
+      "message": "Clipboard History 2"
+   },
+   "import_cannot_parse_file": {
+      "message": "Cannot parse this json file"
+   },
+   "import_cannot_read_file": {
+      "message": "Cannot read this file from filesystem"
+   },
+   "import_error_title": {
+      "message": "Error"
+   },
+   "import_file_not_valid": {
+      "message": "This backup is not valid"
+   },
+   "import_wrong_file_format": {
+      "message": "Wrong file format"
+   },
+   "options_select_file": {
+      "message": "Please select a file!"
+   },
+   "options_some_elements_exists": {
+      "message": "Some elements haven't been added because they already exist"
+   },
+   "options_successfully_imported": {
+      "message": "Successfully imported"
+   },
+   "options_successfully_imported_message": {
+      "message": "Import is complete"
+   },
+   "sync_alert_full_message": {
+      "message": "Please remove several items from the cloud tab"
+   },
+   "sync_alert_full_title": {
+      "message": "Your cloud is full"
+   },
+   "sync_alert_hour_limit_message": {
+      "message": "Try again in an hour"
+   },
+   "sync_alert_hour_limit_title": {
+      "message": "The limit for writing operations per hour was exceeded"
+   },
+   "sync_alert_minute_limit_message": {
+      "message": "Try again in a minute"
+   },
+   "sync_alert_minute_limit_title": {
+      "message": "The limit for writing operations per minute was exceeded"
+   },
+   "sync_alert_too_big_message": {
+      "message": "The cloud can store items that less than 8kb"
+   },
+   "sync_alert_too_big_title": {
+      "message": "The item is too big for the cloud"
+   },
+   "sync_attr_send_to_cloud": {
+      "message": "Send to cloud"
+   },
+   "sync_attr_send_to_cloud_again": {
+      "message": "Send to cloud again"
+   },
+   "sync_attr_too_big": {
+      "message": "Too big for cloud"
+   }
+}

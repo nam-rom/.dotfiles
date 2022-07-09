@@ -1,0 +1,64 @@
+{
+   "background": {
+      "page": "background.html",
+      "persistent": true
+   },
+   "browser_action": {
+      "default_icon": {
+         "38": "imgs/38dis.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "Clipboard History Pro"
+   },
+   "commands": {
+      "floatingMode": {
+         "description": "Open Floating Mode (Pro)"
+      },
+      "lockNow": {
+         "description": "Lock Now (Pro)"
+      },
+      "pasteFav0": {
+         "description": "Paste #1 favorite item",
+         "suggested_key": {
+            "default": "Shift+Alt+1",
+            "mac": "Shift+Alt+1"
+         }
+      },
+      "pasteFav1": {
+         "description": "Paste #2 favorite item",
+         "suggested_key": {
+            "default": "Shift+Alt+2",
+            "mac": "Shift+Alt+2"
+         }
+      },
+      "pasteFav2": {
+         "description": "Paste #3 favorite item",
+         "suggested_key": {
+            "default": "Shift+Alt+3",
+            "mac": "Shift+Alt+3"
+         }
+      },
+      "runPageWidget": {
+         "description": "Run Page Widget (Pro)"
+      }
+   },
+   "content_security_policy": "script-src 'self' https://www.google-analytics.com https://www.googletagmanager.com https://google-analytics.com https://www.gstatic.com/ https://*.firebaseio.com https://www.googleapis.com https://apis.google.com; object-src 'self'",
+   "default_locale": "en",
+   "description": "Clipboard manager extension for your browser: history of copied text, favorites, context menu paste",
+   "icons": {
+      "128": "imgs/128.png",
+      "16": "imgs/32.png",
+      "48": "imgs/48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1btH/ZOO+XSk4E73pYeehw4RiczUqJ/nz4hCiu2mvM5X/XavTFuUUnhyCHNp6R8uTrVLv9cUjww+dBkmRwAXWGmALfCxfbAQFNJNrd+Qwl8seY2Tc0S/9Vc42kMRMLPgr3X3yi75P5AWhMssmF+7t+hVD5HuHam0w5EwrLT1etJ2nS0C6yA6yBipUiMIoe4ru5sHtiDZQ7AnUn++o/tXicQQ08nELJev5C66lQQI5u8cJ1TzOz6nsDOAV3k6Gzkcfx05PVcVXsbtbVKLxqrsd8h2UR5Eki7WVdEtuMie7ZWby0eZQA2XD4zkR3BrOu1CSvGVQs8dtPSC8lxa/JQNBQIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "64",
+   "name": "Clipboard History Pro",
+   "offline_enabled": true,
+   "optional_permissions": [ "tabs" ],
+   "options_page": "options.html",
+   "permissions": [ "clipboardWrite", "clipboardRead", "storage", "activeTab", "contextMenus" ],
+   "short_name": "Clipboard",
+   "update_url": "https://edge.microsoft.com/extensionwebstorebase/v1/crx",
+   "version": "3.13.0"
+}
