@@ -1,0 +1,78 @@
+<div class='my-background'></div>
+<div class="box">
+	<div class="question">{{Question}}</div>
+	<div class="optionList">
+		<div class="option trueClass" onclick="optionSelected(this)">True</div>
+		<div class="option falseClass" onclick="optionSelected(this)">False</div>
+	</div>
+</div>
+
+<script>
+// Persistence by Simon Lammer
+// This allows us to remember the card order and the selected answers after flipping the card
+// Don't modify this
+if(void 0===window.Persistence){var _persistenceKey="github.com/SimonLammer/anki-persistence/",_defaultKey="_default";if(window.Persistence_sessionStorage=function(){var e=!1;try{"object"==typeof window.sessionStorage&&(e=!0,this.clear=function(){for(var e=0;e<sessionStorage.length;e++){var t=sessionStorage.key(e);0==t.indexOf(_persistenceKey)&&(sessionStorage.removeItem(t),e--)}},this.setItem=function(e,t){void 0==t&&(t=e,e=_defaultKey),sessionStorage.setItem(_persistenceKey+e,JSON.stringify(t))},this.getItem=function(e){return void 0==e&&(e=_defaultKey),JSON.parse(sessionStorage.getItem(_persistenceKey+e))},this.removeItem=function(e){void 0==e&&(e=_defaultKey),sessionStorage.removeItem(_persistenceKey+e)})}catch(e){}this.isAvailable=function(){return e}},window.Persistence_windowKey=function(e){var t=window[e],i=!1;"object"==typeof t&&(i=!0,this.clear=function(){t[_persistenceKey]={}},this.setItem=function(e,i){void 0==i&&(i=e,e=_defaultKey),t[_persistenceKey][e]=i},this.getItem=function(e){return void 0==e&&(e=_defaultKey),void 0==t[_persistenceKey][e]?null:t[_persistenceKey][e]},this.removeItem=function(e){void 0==e&&(e=_defaultKey),delete t[_persistenceKey][e]},void 0==t[_persistenceKey]&&this.clear()),this.isAvailable=function(){return i}},window.Persistence=new Persistence_sessionStorage,Persistence.isAvailable()||(window.Persistence=new Persistence_windowKey("py")),!Persistence.isAvailable()){var titleStartIndex=window.location.toString().indexOf("title"),titleContentIndex=window.location.toString().indexOf("main",titleStartIndex);titleStartIndex>0&&titleContentIndex>0&&titleContentIndex-titleStartIndex<10&&(window.Persistence=new Persistence_windowKey("qt"))}}
+</script>
+
+<script>
+// This is the code to make MCQs
+	// Store the default user answer as "00" so that results are shown even if the user didn't select anything
+	Persistence.setItem('userAnswer', "00");
+
+	// Make an array with all the options
+	var options = document.querySelector(".optionList").querySelectorAll(".option");
+
+	// If the user clicks on an option
+	function optionSelected(choice) {
+		// Select or unselect the option
+		if (choice.classList.contains("selected")) { choice.classList.remove("selected"); } else { choice.classList.add("selected"); }
+
+		// Find out all the answers of the user
+		var userAnswer = "";		
+		for(i=0; i < options.length; i++) { if (options[i].classList.contains("selected") ) { userAnswer += "1"; } else { userAnswer += "0"; } }
+
+		// Store the user answer
+		Persistence.setItem('userAnswer', userAnswer);
+
+		// Flip the card
+		pycmd("ans");
+		showAnswer();
+	}
+</script>```
+<div class='my-background'></div>
+<div class="box">
+	<div class="question">{{Question}}</div>
+	<div class="optionList">
+		<div class="option trueClass" onclick="optionSelected(this)">True</div>
+		<div class="option falseClass" onclick="optionSelected(this)">False</div>
+	</div>
+</div>
+
+<script>
+// Persistence by Simon Lammer
+// This allows us to remember the card order and the selected answers after flipping the card
+// Don't modify this
+if(void 0===window.Persistence){var _persistenceKey="github.com/SimonLammer/anki-persistence/",_defaultKey="_default";if(window.Persistence_sessionStorage=function(){var e=!1;try{"object"==typeof window.sessionStorage&&(e=!0,this.clear=function(){for(var e=0;e<sessionStorage.length;e++){var t=sessionStorage.key(e);0==t.indexOf(_persistenceKey)&&(sessionStorage.removeItem(t),e--)}},this.setItem=function(e,t){void 0==t&&(t=e,e=_defaultKey),sessionStorage.setItem(_persistenceKey+e,JSON.stringify(t))},this.getItem=function(e){return void 0==e&&(e=_defaultKey),JSON.parse(sessionStorage.getItem(_persistenceKey+e))},this.removeItem=function(e){void 0==e&&(e=_defaultKey),sessionStorage.removeItem(_persistenceKey+e)})}catch(e){}this.isAvailable=function(){return e}},window.Persistence_windowKey=function(e){var t=window[e],i=!1;"object"==typeof t&&(i=!0,this.clear=function(){t[_persistenceKey]={}},this.setItem=function(e,i){void 0==i&&(i=e,e=_defaultKey),t[_persistenceKey][e]=i},this.getItem=function(e){return void 0==e&&(e=_defaultKey),void 0==t[_persistenceKey][e]?null:t[_persistenceKey][e]},this.removeItem=function(e){void 0==e&&(e=_defaultKey),delete t[_persistenceKey][e]},void 0==t[_persistenceKey]&&this.clear()),this.isAvailable=function(){return i}},window.Persistence=new Persistence_sessionStorage,Persistence.isAvailable()||(window.Persistence=new Persistence_windowKey("py")),!Persistence.isAvailable()){var titleStartIndex=window.location.toString().indexOf("title"),titleContentIndex=window.location.toString().indexOf("main",titleStartIndex);titleStartIndex>0&&titleContentIndex>0&&titleContentIndex-titleStartIndex<10&&(window.Persistence=new Persistence_windowKey("qt"))}}
+</script>
+
+<script>
+// This is the code to make MCQs
+	// Get the values from persistence
+	var userAnswer = Persistence.getItem('userAnswer');
+	Persistence.clear()
+
+	var answer = "{{Answer}}";
+	if (answer == "1" || answer == "True" || answer == "true" || answer == "T" || answer == "t") { answer = "10"; } else { answer = "01"; }
+
+	// Insert the options into the optionList div and then put them in an array called options
+	var options =  document.querySelector(".optionList").querySelectorAll(".option");
+
+	// Add colors to the buttons
+	for(i=0; i < options.length; i++) {
+		if (userAnswer.charAt(i) == '1' && answer.charAt(i) == '1') { options[i].classList.add("correct"); }
+		else if (userAnswer.charAt(i) == '1' && answer.charAt(i) == '0') { options[i].classList.add("incorrect"); }
+		else if (userAnswer.charAt(i) == '0' && answer.charAt(i) == '1') { options[i].classList.add("missed"); }
+	}
+</script>
+
+<div style='font-size:200%;'> {{NOTE}}</div>

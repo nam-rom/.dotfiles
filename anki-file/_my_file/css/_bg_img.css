@@ -1,0 +1,18 @@
+
+body {
+  margin: 0px;
+  padding: 0px;
+  background: linear-gradient(
+    90deg,
+    rgba(252, 70, 107, 1) 11%,
+    rgba(63, 94, 251, 1) 100%
+  );
+
+}
+.card {
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-image: url("https://images.unsplash.com/photo-1485003975062-9946bdb9dbae?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8");
+  background-size: cover;
+}
+

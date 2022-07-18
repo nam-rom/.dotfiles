@@ -1,0 +1,55 @@
+:root {
+/*      customcolor     */
+        --heading-night:#b7bdf8;
+        --heading:#000000;
+	--legend-bg-night:#626880;
+	--legend-bg: #fffddd;
+	--box-bg: rgba(255, 255, 255, 0.9);
+	--box-bg-night:rgba(41, 44, 60, 0.9);
+/*	custom size	*/
+	--legend-font-size: 2em;
+	--desktop-font-size: 20px;
+	--mobile-font-size: 20px;
+}
+
+.mobile .card  {
+	font-size: var(--mobile-font-size);
+}
+.card.nightMode {
+	color: #c6d0f5;
+}
+.card {
+	font-family: comicsan;
+	font-size: var(--desktop-font-size);
+  margin: 1em auto 0 auto;
+  padding: 0px 1em;
+
+  height: 100%;
+  max-width: 800px;
+  text-align: center;
+	color: #4c4f69;
+	
+}
+img {
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 4px;
+}
+
+input[type=text] {
+	max-width: 84%;
+ 	text-align: center;
+ 	padding: 8px 6px;
+	box-sizing: border-box;
+ 	border-radius: 10px;
+ 	font-size: 24px;
+	outline:none;
+	border:0;
+	margin-bottom:20px;
+}
+
+.input {
+	margin-top: 20px;
+	margin-bottom:20px;
+}
+

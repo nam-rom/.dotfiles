@@ -1,0 +1,36 @@
+
+h1, h2 {
+	color: var(--heading);
+}
+.nightMode h1,.nightMode h2 {
+	color: var(--heading-night);
+}
+b {
+	color: var(--lavender);
+}
+i {
+	color: var(--teal);
+}
+u {
+	color: var(--flamingo);
+}
+a {
+	color: var(--sky);
+	font-size:0.7em;
+}
+
+.nightMode b {
+	color: var(--green);
+}
+.nightMode i {
+  color: var(--flamingo);
+}
+.nightMode u {
+	color:	var(--blue);
+}
+.nightMode a {
+	color: var(--rosewater);
+}
+.cloze {
+	color:var(--yellow);
+}

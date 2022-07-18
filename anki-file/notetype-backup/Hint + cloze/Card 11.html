@@ -1,0 +1,301 @@
+<div class='my-background'></div>
+  <div class="box"><img id="randomImage"/>
+<script>
+function getRandomImage() {
+var images = ['Wilson_Portrait.png','terrier1.png','terrier2.png','terrier3.png','terrier4.png','terrier5.png','terrier6.png','terrier7.png','terrier8.png','terrier9.png','terrier10.png','Abigail.png'];
+var image = images[Math.floor(Math.random()*images.length)];
+return image;
+}
+function displayRandomImage() {
+var htmlImage = document.getElementById("randomImage");
+htmlImage.src = getRandomImage();
+}
+displayRandomImage();
+</script>
+    <div id="kard"></div>
+    <div class="tags">{{Tags}}</div>
+    <div id="countDown"></div>
+    <small>
+      {{#Tittle}}
+        <fieldset>
+      {{/Tittle}}
+      <legend>
+        <span class=topic>
+          <small>{{Topic}}</small>
+        </span>
+      </legend>
+      <span class='notionBrown'>{{Tittle}}</span>
+      {{#Tittle}}
+        </fieldset>{{/Tittle}}
+    </small>
+    {{Question}}
+    <div id="extra">
+      <ol>
+        <div>{{#Hint 1}} ﻿ <a class=hint href="#" onclick="this.style.display='none';document.getElementById('hint1').style.display='inline-block';return false;">
+              <u>
+                <span class='showhint'>Show hint 1&#160;&#160;&#160;&#160;&#160;</span>
+              </u>
+            </a>
+            <div id="hint1" class=hint style="display: none">
+              <li>{{Hint 1}}</li>
+            </div>
+          {{/Hint 1}}
+        </div>
+        <div>{{#Hint 2}} ﻿ <a class=hint href="#" onclick="this.style.display='none';document.getElementById('hint2').style.display='inline-block';return false;">
+              <u>
+                <span class='showhint'>Show hint 2&#160;&#160;&#160;&#160;&#160;</span>
+              </u>
+            </a>
+            <div id="hint2" class=hint style="display: none">
+              <li>{{Hint 2}}</li>
+            </div>
+          {{/Hint 2}}
+        </div>
+        <div>{{#Hint 3}} ﻿ <a class=hint href="#" onclick="this.style.display='none';document.getElementById('hint3').style.display='inline-block';return false;">
+              <u>
+                <span class='showhint'>Show hint 3&#160;&#160;&#160;&#160;&#160;</span>
+              </u>
+            </a>
+            <div id="hint3" class=hint style="display: none">
+              <li>{{Hint 3}}</li>
+            </div>
+          {{/Hint 3}}
+        </div>
+        <div>{{#Hint 4}} ﻿ <a class=hint href="#" onclick="this.style.display='none';document.getElementById('hint4').style.display='inline-block';return false;">
+              <u>
+                <span class='showhint'>Show hint 4&#160;&#160;&#160;&#160;&#160;</span>
+              </u>
+            </a>
+            <div id="hint4" class=hint style="display: none">
+              <li>{{Hint 4}}</li>
+            </div>
+          {{/Hint 4}}
+        </div>
+        <div>{{#Hint 5}} ﻿ <a class=hint href="#" onclick="this.style.display='none';document.getElementById('hint5').style.display='inline-block';return false;">
+              <u>
+                <span class='showhint'>Show hint 5&#160;&#160;&#160;&#160;&#160;</span>
+              </u>
+            </a>
+            <div id="hint5" class=hint style="display: none">
+              <li>{{Hint 5}}</li>
+            </div>
+          {{/Hint 5}}
+        </div>
+        <div>{{#Hint 6}} ﻿ <a class=hint href="#" onclick="this.style.display='none';document.getElementById('hint6').style.display='inline-block';return false;">
+              <u>
+                <span class='showhint'>Show hint 6&#160;&#160;&#160;&#160;&#160;</span>
+              </u>
+            </a>
+            <div id="hint6" class=hint style="display: none">
+              <li>{{Hint 6}}</li>
+            </div>
+          {{/Hint 6}}
+        </div>
+        <div>{{#Hint 7}} ﻿ <a class=hint href="#" onclick="this.style.display='none';document.getElementById('hint7').style.display='inline-block';return false;">
+              <u>
+                <span class='showhint'>Show hint 7&#160;&#160;&#160;&#160;&#160;</span>
+              </u>
+            </a>
+            <div id="hint7" class=hint style="display: none">
+              <li>{{Hint 7}}</li>
+            </div>
+          {{/Hint 7}}
+        </div>
+        <div>{{#Hint 8}} ﻿ <a class=hint href="#" onclick="this.style.display='none';document.getElementById('hint8').style.display='inline-block';return false;">
+              <u>
+                <span class='showhint'>Show hint 8&#160;&#160;&#160;&#160;&#160;</span>
+              </u>
+            </a>
+            <div id="hint8" class=hint style="display: none">
+              <li>{{Hint 8}}</li>
+            </div>
+          {{/Hint 8}}
+        </div>
+        <div>{{#Hint 9}} ﻿ <a class=hint href="#" onclick="this.style.display='none';document.getElementById('hint9').style.display='inline-block';return false;">
+              <u>
+                <span class='showhint'>Show hint 9&#160;&#160;&#160;&#160;&#160;</span>
+              </u>
+            </a>
+            <div id="hint9" class=hint style="display: none">
+              <li>{{Hint 9}}</li>
+            </div>
+          {{/Hint 9}}
+        </div>
+        <div>{{#Hint 10}} ﻿ <a class=hint href="#" onclick="this.style.display='none';document.getElementById('hint10').style.display='inline-block';return false;">
+              <u>
+                <span class='showhint'>Show hint 10&#160;&#160;&#160;&#160;</span>
+              </u>
+            </a>
+            <div id="hint10" class=hint style="display: none">
+              <li>{{Hint 10}}</li>
+            </div>
+          {{/Hint 10}}
+        </div>
+        </ol>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+{{#Question}}
+<ol id="optionList" class="Name"></ol>
+<div id="Name" style="display:none"></div>
+<div id="Expression" style="display:none">{{text:Hint 1}}</div>
+
+{{/Question}}
+
+<script> 
+    initName();
+    // Thay đổi thời gian kết thúc đếm ngược thành thời gian của riêng bạn
+    var endTime="2022/06/06 00:00:00";
+    var s = document.createElement("script");
+
+    countDown(endTime);
+    function countDown(endTime) {
+        var nowtime = new Date();
+        var endtime = new Date(endTime);
+        var lefttime = parseInt((endtime.getTime() - nowtime.getTime()) / 1000);
+        var d = parseInt(lefttime / (24*60*60))
+        var h = parseInt(lefttime / (60 * 60) % 24);
+        var m = parseInt(lefttime / 60 % 60);
+        var s = parseInt(lefttime % 60);
+        d = addZero(d)
+        h = addZero(h);
+        m = addZero(m);
+        s = addZero(s);
+        document.getElementById("countDown").innerHTML = `Kỳ thi thpt quốc qia còn: ${d}d ${h}h ${m}' ${s}''`;
+        //document.getElementById("countDown").innerHTML = `Kỳ thi thpt quốc qia còn: $ {d} ngày `;
+        if (lefttime <= 0) {
+            document.getElementById("countDown").innerHTML = "Kỳ thi kết thúc";
+            return;
+        }
+        setTimeout(function(){countDown(endTime)}, 1000);
+    }
+    function addZero(i) {
+        return i < 10 ? "0" + i: i + "";
+    }
+</script>
+
+
+
+
+
+```
+<div class='my-background'></div>
+  <div class="box"><img id="randomImage"/>
+<script>
+function getRandomImage() {
+var images = ['Wilson_Portrait.png','terrier1.png','terrier2.png','terrier3.png','terrier4.png','terrier5.png','terrier6.png','terrier7.png','terrier8.png','terrier9.png','terrier10.png','Abigail.png'];
+var image = images[Math.floor(Math.random()*images.length)];
+return image;
+}
+function displayRandomImage() {
+var htmlImage = document.getElementById("randomImage");
+htmlImage.src = getRandomImage();
+}
+displayRandomImage();
+</script>
+    <div id="kard"></div>
+    <div class="tags">{{Tags}}</div>
+    <div id="countDown"></div>
+    <small>
+      {{#Tittle}}
+        <fieldset>
+      {{/Tittle}}
+      <legend>
+        <span class=topic>
+          <small>{{Topic}}</small>
+        </span>
+      </legend>
+      <span class='notionBrown'>{{Tittle}}</span>
+      {{#Tittle}}
+        </fieldset>{{/Tittle}}
+    </small>
+    {{Question}}
+    <div id="extra">
+      <ol>
+        {{#Hint 1}}
+          <li>{{Hint 1}}</li>
+        {{/Hint 1}}
+        {{#Hint 2}}
+          <li>{{Hint 2}}</li>
+        {{/Hint 2}}
+        {{#Hint 3}}
+          <li>{{Hint 3}}</li>
+        {{/Hint 3}}
+        {{#Hint 4}}
+          <li>{{Hint 4}}</li>
+        {{/Hint 4}}
+        {{#Hint 5}}
+          <li>{{Hint 5}}</li>
+        {{/Hint 5}}
+        {{#Hint 6}}
+          <li>{{Hint 6}}</li>
+        {{/Hint 6}}
+        {{#Hint 7}}
+          <li>{{Hint 7}}</li>
+        {{/Hint 7}}
+        {{#Hint 8}}
+          <li>{{Hint 8}}</li>
+        {{/Hint 8}}
+        {{#Hint 9}}
+          <li>{{Hint 9}}</li>
+        {{/Hint 9}}
+        {{#Hint 10}}
+          <li>{{Hint 10}}</li>
+        {{/Hint 10}}
+      </ol>
+    </div>
+    <span id="answer"></span>
+    <hr id="extra">
+    <div>{{Back Extra}}</div>
+    {{Big Picture}}
+  </div>
+</div>
+
+
+
+{{#Question}}
+<ol id="optionList" class="Name"></ol>
+<div id="Name" style="display:none"></div>
+<div id="Expression" style="display:none">{{text:Hint 1}}</div>
+
+{{/Question}}
+
+<script> 
+    initName();
+    // Thay đổi thời gian kết thúc đếm ngược thành thời gian của riêng bạn
+    var endTime="2022/06/06 00:00:00";
+    var s = document.createElement("script");
+
+    countDown(endTime);
+    function countDown(endTime) {
+        var nowtime = new Date();
+        var endtime = new Date(endTime);
+        var lefttime = parseInt((endtime.getTime() - nowtime.getTime()) / 1000);
+        var d = parseInt(lefttime / (24*60*60))
+        var h = parseInt(lefttime / (60 * 60) % 24);
+        var m = parseInt(lefttime / 60 % 60);
+        var s = parseInt(lefttime % 60);
+        d = addZero(d)
+        h = addZero(h);
+        m = addZero(m);
+        s = addZero(s);
+        document.getElementById("countDown").innerHTML = `Kỳ thi thpt quốc qia còn: ${d}d ${h}h ${m}' ${s}''`;
+        //document.getElementById("countDown").innerHTML = `Kỳ thi thpt quốc qia còn: $ {d} ngày `;
+        if (lefttime <= 0) {
+            document.getElementById("countDown").innerHTML = "Kỳ thi kết thúc";
+            return;
+        }
+        setTimeout(function(){countDown(endTime)}, 1000);
+    }
+    function addZero(i) {
+        return i < 10 ? "0" + i: i + "";
+    }
+</script>
+
+
+

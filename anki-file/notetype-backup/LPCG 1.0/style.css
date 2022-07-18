@@ -1,0 +1,61 @@
+@import url("_editor_button_styles.css");
+@import url("_mystyle.css");
+@import url("_sunset_bg.css");
+.card {
+    font-family: arial;
+    font-size: 20px;
+    color: black;
+    background-color: black;
+}
+
+p {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.lines {
+    text-align: center;
+    margin-left: 30px;
+    text-indent: -30px;
+    margin-right: 30px;
+}
+
+.cloze {
+    font-weight: bold;
+    color: blue;
+}
+/*		keep it green not purple
+.nightMode .cloze {
+    filter: invert(85%);
+}
+*/
+
+.title, .author {
+    color: #268bd2;
+    text-align: center;
+    font-size: 22px;
+}
+
+.indent {
+    margin-left: 60px;
+}
+
+
+
+/* THIS IS MY TEMPLE*/
+
+
+
+<style></style><script>if (!window.gData) {
+	window.gData= {}
+}
+
+var gData=window.gData;
+// Tùy chọn hiển thị
+function initName() {
+	var optionList=document.getElementById("optionList"),
+	Name=document.getElementById("Name"),
+	Expression=document.getElementById("Expression");
+}
+
+</script>

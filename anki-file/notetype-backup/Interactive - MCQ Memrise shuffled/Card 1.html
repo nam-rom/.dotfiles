@@ -1,0 +1,155 @@
+<div class='my-background'></div>
+<div class="box">
+	<div class="question">{{Question}}</div>
+	<div class="optionList">
+		<div class="option" onclick="optionSelected(this)">{{Option1}}</div>
+		<div class="option" onclick="optionSelected(this)">{{Option2}}</div>
+		{{#Option3}} <div class="option" onclick="optionSelected(this)">{{Option3}}</div> {{/Option3}}
+		{{#Option4}} <div class="option" onclick="optionSelected(this)">{{Option4}}</div> {{/Option4}}
+		{{#Option5}} <div class="option" onclick="optionSelected(this)">{{Option5}}</div> {{/Option5}}
+		{{#Option6}} <div class="option" onclick="optionSelected(this)">{{Option6}}</div> {{/Option6}}
+		{{#Option7}} <div class="option" onclick="optionSelected(this)">{{Option7}}</div> {{/Option7}}
+		{{#Option8}} <div class="option" onclick="optionSelected(this)">{{Option8}}</div> {{/Option8}}
+		{{#Option9}} <div class="option" onclick="optionSelected(this)">{{Option9}}</div> {{/Option9}}
+	</div>
+</div>
+
+<script>
+// Persistence by Simon Lammer
+// This allows us to remember the card order and the selected answers after flipping the card
+// Don't modify this
+if(void 0===window.Persistence){var _persistenceKey="github.com/SimonLammer/anki-persistence/",_defaultKey="_default";if(window.Persistence_sessionStorage=function(){var e=!1;try{"object"==typeof window.sessionStorage&&(e=!0,this.clear=function(){for(var e=0;e<sessionStorage.length;e++){var t=sessionStorage.key(e);0==t.indexOf(_persistenceKey)&&(sessionStorage.removeItem(t),e--)}},this.setItem=function(e,t){void 0==t&&(t=e,e=_defaultKey),sessionStorage.setItem(_persistenceKey+e,JSON.stringify(t))},this.getItem=function(e){return void 0==e&&(e=_defaultKey),JSON.parse(sessionStorage.getItem(_persistenceKey+e))},this.removeItem=function(e){void 0==e&&(e=_defaultKey),sessionStorage.removeItem(_persistenceKey+e)})}catch(e){}this.isAvailable=function(){return e}},window.Persistence_windowKey=function(e){var t=window[e],i=!1;"object"==typeof t&&(i=!0,this.clear=function(){t[_persistenceKey]={}},this.setItem=function(e,i){void 0==i&&(i=e,e=_defaultKey),t[_persistenceKey][e]=i},this.getItem=function(e){return void 0==e&&(e=_defaultKey),void 0==t[_persistenceKey][e]?null:t[_persistenceKey][e]},this.removeItem=function(e){void 0==e&&(e=_defaultKey),delete t[_persistenceKey][e]},void 0==t[_persistenceKey]&&this.clear()),this.isAvailable=function(){return i}},window.Persistence=new Persistence_sessionStorage,Persistence.isAvailable()||(window.Persistence=new Persistence_windowKey("py")),!Persistence.isAvailable()){var titleStartIndex=window.location.toString().indexOf("title"),titleContentIndex=window.location.toString().indexOf("main",titleStartIndex);titleStartIndex>0&&titleContentIndex>0&&titleContentIndex-titleStartIndex<10&&(window.Persistence=new Persistence_windowKey("qt"))}}
+</script>
+
+<script>
+// This is the code to make MCQs
+	// Store the default user answer as "000000000" so that results are shown even if the user didn't select anything
+	Persistence.setItem('userAnswer', "000000000");
+
+	// Put all the options into the options array
+	var optionsArray = []; // This array contains all of the options
+	optionsArray[0] = ""; // Leave the first blank
+	optionsArray[1] = "{{Option1}}";
+	optionsArray[2] = "{{Option2}}";
+	{{#Option3}} optionsArray[3] = "{{Option3}}"; {{/Option3}}
+	{{#Option4}} optionsArray[4] = "{{Option4}}"; {{/Option4}}
+	{{#Option5}} optionsArray[5] = "{{Option5}}"; {{/Option5}}
+	{{#Option6}} optionsArray[6] = "{{Option6}}"; {{/Option6}}
+	{{#Option7}} optionsArray[7] = "{{Option7}}"; {{/Option7}}
+	{{#Option8}} optionsArray[8] = "{{Option8}}"; {{/Option8}}
+	{{#Option9}} optionsArray[9] = "{{Option9}}"; {{/Option9}}
+
+	// Transform the answer into an array with an unused 0 at the beginning (like [ 0, 1, 0, 0, 1 ] instead of "1001")
+	var origAnswer = "{{Answer}}";
+	var answerString = "";
+	if (origAnswer.length == 1) { for (i=0; i < optionsArray.length; i++) { if (i.toString() == origAnswer) { answerString += "1"; } else { answerString += "0"; } }
+	} else { answerString = "0" + origAnswer; }
+	var answer = answerString.split('');
+
+	// Now create the order array, which will first look like this: [ 0, 1, 2, 3, 4 ] depending on the numbers of options (the 0 won't be used)
+	var order = [];
+	for(i=0; i < optionsArray.length; i++) { order[i] = i.toString(); }
+
+	// Shuffle around the order (and the answer too so that it fits the new order)
+	// You could just remove this for loop to make the options appear in order, but the solution that I made in the other note type is easier
+	for(i=1; i < optionsArray.length; i++) {
+		var j = Math.floor(Math.random()*(optionsArray.length-1)) + 1;
+		var temp = order[i];
+		order[i] = order[j];
+		order[j] = temp;
+		temp = answer[i];
+		answer[i] = answer[j];
+		answer[j] = temp;
+	}
+
+	// Save the correct answer and the order of the questions
+	// Join transforms the arrays into strings and substring(1) removes the 0 that we had added previously to the beginning of the answer
+	Persistence.setItem('answer', answer.join('').substring(1));
+	Persistence.setItem('order', order.join(''));
+
+	// Insert the options as buttons into the optionList div and then put them in an array called options, according to the order in the order array
+	var optionsText = "";
+	for(i=1; i < order.length; i++) { optionsText += '<div class="option" onclick="optionSelected(this)"><span>'+ optionsArray[parseInt(order[i])] +'</span></div>'; }
+	var optionList = document.querySelector(".optionList");
+	optionList.innerHTML = optionsText;
+	var options = optionList.querySelectorAll(".option");
+
+	// If the user clicks on an option
+	function optionSelected(choice) {
+		// Select or unselect the option
+		if (choice.classList.contains("selected")) { choice.classList.remove("selected"); } else { choice.classList.add("selected"); }
+
+		// Find out all the answers of the user
+		var userAnswer = "";		
+		for(i=0; i < options.length; i++) { if (options[i].classList.contains("selected") ) { userAnswer += "1"; } else { userAnswer += "0"; } }
+
+		// Store the user answer
+		Persistence.setItem('userAnswer', userAnswer);
+
+		// Flip the card if there's only one correct answer
+		if (origAnswer.length == 1) {
+			pycmd("ans");
+			showAnswer();
+		}
+	}
+</script>```
+<div class='my-background'></div>
+<div class="box">
+	<div class="question">{{Question}}</div>
+	<div class="optionList">
+		<div class="option" onclick="optionSelected(this)">{{Option1}}</div>
+		<div class="option" onclick="optionSelected(this)">{{Option2}}</div>
+		{{#Option3}} <div class="option" onclick="optionSelected(this)">{{Option3}}</div> {{/Option3}}
+		{{#Option4}} <div class="option" onclick="optionSelected(this)">{{Option4}}</div> {{/Option4}}
+		{{#Option5}} <div class="option" onclick="optionSelected(this)">{{Option5}}</div> {{/Option5}}
+		{{#Option6}} <div class="option" onclick="optionSelected(this)">{{Option6}}</div> {{/Option6}}
+		{{#Option7}} <div class="option" onclick="optionSelected(this)">{{Option7}}</div> {{/Option7}}
+		{{#Option8}} <div class="option" onclick="optionSelected(this)">{{Option8}}</div> {{/Option8}}
+		{{#Option9}} <div class="option" onclick="optionSelected(this)">{{Option9}}</div> {{/Option9}}
+	</div>
+</div>
+
+<script>
+// Persistence by Simon Lammer
+// This allows us to remember the card order and the selected answers after flipping the card
+// Don't modify this
+if(void 0===window.Persistence){var _persistenceKey="github.com/SimonLammer/anki-persistence/",_defaultKey="_default";if(window.Persistence_sessionStorage=function(){var e=!1;try{"object"==typeof window.sessionStorage&&(e=!0,this.clear=function(){for(var e=0;e<sessionStorage.length;e++){var t=sessionStorage.key(e);0==t.indexOf(_persistenceKey)&&(sessionStorage.removeItem(t),e--)}},this.setItem=function(e,t){void 0==t&&(t=e,e=_defaultKey),sessionStorage.setItem(_persistenceKey+e,JSON.stringify(t))},this.getItem=function(e){return void 0==e&&(e=_defaultKey),JSON.parse(sessionStorage.getItem(_persistenceKey+e))},this.removeItem=function(e){void 0==e&&(e=_defaultKey),sessionStorage.removeItem(_persistenceKey+e)})}catch(e){}this.isAvailable=function(){return e}},window.Persistence_windowKey=function(e){var t=window[e],i=!1;"object"==typeof t&&(i=!0,this.clear=function(){t[_persistenceKey]={}},this.setItem=function(e,i){void 0==i&&(i=e,e=_defaultKey),t[_persistenceKey][e]=i},this.getItem=function(e){return void 0==e&&(e=_defaultKey),void 0==t[_persistenceKey][e]?null:t[_persistenceKey][e]},this.removeItem=function(e){void 0==e&&(e=_defaultKey),delete t[_persistenceKey][e]},void 0==t[_persistenceKey]&&this.clear()),this.isAvailable=function(){return i}},window.Persistence=new Persistence_sessionStorage,Persistence.isAvailable()||(window.Persistence=new Persistence_windowKey("py")),!Persistence.isAvailable()){var titleStartIndex=window.location.toString().indexOf("title"),titleContentIndex=window.location.toString().indexOf("main",titleStartIndex);titleStartIndex>0&&titleContentIndex>0&&titleContentIndex-titleStartIndex<10&&(window.Persistence=new Persistence_windowKey("qt"))}}
+</script>
+
+<script>
+// This is the code to make MCQs
+	// Get the values from persistence
+	var userAnswer = Persistence.getItem('userAnswer');
+	var answer = Persistence.getItem('answer');
+	var order = Persistence.getItem('order').split('');
+	Persistence.clear()
+
+	// Put all the options into the options array
+	var optionsArray = [];
+	optionsArray[0] = ""; // Leave the first blank
+	optionsArray[1] = "{{Option1}}";
+	optionsArray[2] = "{{Option2}}";
+	{{#Option3}} optionsArray[3] = "{{Option3}}"; {{/Option3}}
+	{{#Option4}} optionsArray[4] = "{{Option4}}"; {{/Option4}}
+	{{#Option5}} optionsArray[5] = "{{Option5}}"; {{/Option5}}
+	{{#Option6}} optionsArray[6] = "{{Option6}}"; {{/Option6}}
+	{{#Option7}} optionsArray[7] = "{{Option7}}"; {{/Option7}}
+	{{#Option8}} optionsArray[8] = "{{Option8}}"; {{/Option8}}
+	{{#Option9}} optionsArray[9] = "{{Option9}}"; {{/Option9}}
+
+	// Insert the options into the optionList div and then put them in an array called options
+	var optionsText = "";
+	for(i=1; i < order.length; i++) { optionsText += '<div class="option"><span>'+ optionsArray[parseInt(order[i])] +'</span></div>'; }
+	var optionList = document.querySelector(".optionList");
+	optionList.innerHTML = optionsText;
+	var options = optionList.querySelectorAll(".option");
+
+	// Add colors to the buttons
+	for(i=0; i < options.length; i++) {
+		if (userAnswer.charAt(i) == '1' && answer.charAt(i) == '1') { options[i].classList.add("correct"); }
+		else if (userAnswer.charAt(i) == '1' && answer.charAt(i) == '0') { options[i].classList.add("incorrect"); }
+		else if (userAnswer.charAt(i) == '0' && answer.charAt(i) == '1') { options[i].classList.add("missed"); }
+	}
+</script>
+
+<div style=' font-size: 20px;'>{{NOTE}}</div>

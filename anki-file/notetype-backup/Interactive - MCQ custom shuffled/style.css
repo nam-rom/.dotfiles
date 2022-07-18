@@ -1,0 +1,80 @@
+@import url("_editor_button_styles.css");
+
+.card {
+	font-family: arial;
+	font-size: 10px;
+	text-align: center;
+	color: black;
+}
+
+.box {
+    position: relative;
+	padding: 10px 20px 5px 20px;
+    background: white;
+	border-radius: 10px;
+	color: black;
+    opacity: 1;
+    pointer-events: auto;
+}
+
+.question{
+    font-size: 35px;
+    font-weight: 600;
+}
+
+.mobile .question{
+    font-size: 25px;
+}
+
+.optionList{
+    padding: 20px 0px;
+    display: block;   
+}
+
+.optionList .option{
+    background: aliceblue;
+    border: 1px solid #84c5fe;
+    border-radius: 5px;
+    padding: 8px 15px;
+    font-size: 17px;
+    margin-bottom: 15px;
+    cursor: pointer;
+    transition: all 0.1s ease;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.optionList .option:last-child{
+    margin-bottom: 0px;
+}
+
+.optionList .option:hover{
+    color: #004085;
+    background: #cce5ff;
+    border: 1px solid #b8daff;
+}
+
+.optionList .option.selected{
+    color: #004085;
+    background: #cce5ff;
+    border: 1px solid #b8daff;
+}
+
+.optionList .option.correct{
+    color: #155724;
+    background: #d4edda;
+    border: 1px solid #155724;
+}
+
+.optionList .option.incorrect{
+    color: #721c24;
+    background: #f8d7da;
+    border: 1px solid #721c24;
+}
+
+.optionList .option.missed{
+    color: #997f00;
+    background: #f9ffc3;
+    border: 1px solid #997f00;
+}

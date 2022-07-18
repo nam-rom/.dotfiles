@@ -1,0 +1,130 @@
+@import url("_editor_button_styles.css");
+@import url("_mystyle.css");
+@import url("_sunset_bg.css");
+
+/* GENERAL CARD STYLE */
+.card {
+  font-family: "Helvetica LT Std", Helvetica, Arial, Sans;
+  font-size: 150%;
+  text-align: center;
+  color: black;
+  background-color: white;
+}
+
+/* OCCLUSION CSS START - don't edit this */
+#io-overlay {
+  position:absolute;
+  top:0;
+  width:100%;
+  z-index:3
+}
+
+#io-original {
+  position:relative;
+  top:0;
+  width:100%;
+  z-index:2;
+  visibility: hidden;
+}
+
+#io-wrapper {
+  position:relative;
+  width: 100%;
+}
+/* OCCLUSION CSS END */
+
+/* OTHER STYLES */
+#io-header{
+  font-size: 30px;
+  margin-bottom: 0.2em;
+  font-family: Menlo, baskerville, sans;
+  color: MediumSeaGreen;
+
+}
+
+#io-footer{
+  max-width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0.8em;
+  font-style: italic;
+}
+
+#io-extra-wrapper{
+  /* the wrapper is needed to center the
+  left-aligned blocks below it */
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0.5em;
+}
+
+#io-extra{
+  text-align:center;
+  display: inline-block;
+}
+
+.io-extra-entry{
+  margin-top: 0.8em;
+  font-size: 0.9em;
+  text-align:left;
+}
+
+.io-field-descr{
+  margin-bottom: 0.2em;
+  font-weight: bold;
+  font-size: 1em;
+}
+
+#io-revl-btn {
+  font-size: 0.5em;
+}
+
+/* ADJUSTMENTS FOR MOBILE DEVICES */
+
+.mobile .card, .mobile #content {
+  font-size: 100%;
+  margin:0 ;  /* mặc định của tác giả là 0 */
+    padding: 10px 20px 5px 20px;  /* thêm cho giống cái card */
+}
+
+.mobile #io-extra-wrapper {
+  width: 95%;
+}
+
+.mobile #io-revl-btn {
+  font-size: 0.8em;
+}
+
+
+/* THIS IS MY TEMPLE */
+
+/* not to zoom picture */
+img:hover{
+    transform: scale(1.0);
+}
+
+
+/* reset margin so the red and yellow block will fit with image in image occlusion */
+.mobile img, img {
+	margin: auto auto auto auto;
+}
+
+
+
+<style>
+</style>
+<script>
+    if (!window.gData) {
+        window.gData = {        
+        }
+    }
+    var gData = window.gData;
+    // Tùy chọn hiển thị
+    function initName() {
+        var optionList = document.getElementById("optionList"),
+          
+            Name = document.getElementById("Name"),
+            Expression = document.getElementById("Expression");   
+    }  
+</script>
