@@ -176,7 +176,7 @@
   ],
   "DefaultInputMode": 3,
   "InputModeMapping": {
-    "Navigator:firefox": 1,
+    "Navigator:firefox": 3,
     "gnome-terminal-server:Gnome-terminal": 7,
     "xfce4-terminal:Xfce4-terminal": 7
   }

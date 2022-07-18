@@ -270,7 +270,10 @@ exec --no-startup-id cd ~/Pictures/ && git add . && git commit -m "automate comm
 exec --no-startup-id cd ~/Music/ && git add . && git commit -m "automate commit" && git push  origin main
 exec --no-startup-id cd ~/.obsidian && git add . && git commit -m "automate commit" && git push  origin main
 exec --no-startup-id firefox
+exec --no-startup-id bash ~/.myscript/eyecare.sh
 exec --no-startup-id anki
+exec --no-startup-id dunst
+exec --no-startup-id fcitx5 -d
 
 bindsym $mod+Shift+s exec gscreenshot -csnd 1
 bindsym $mod2+Shift+s exec gscreenshot -csn 
@@ -284,4 +287,5 @@ bindsym Ctrl+F3 exec bash ~/.myscript/study-music.sh
 bindsym $mod+Shift+P exec bash ~/.myscript/saveunsplash.sh
 bindsym Ctrl+$mod+Delete exec poweroff
 bindsym $mod2+Delete exec reboot
+
 

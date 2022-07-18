@@ -1,5 +1,3 @@
-2022/06/03-16:27:17.146 a9d8 Recovering log #8
-2022/06/03-16:27:17.162 a9d8 Level-0 table #10: started
-2022/06/03-16:27:17.167 a9d8 Level-0 table #10: 142 bytes OK
-2022/06/03-16:27:17.198 a9d8 Delete type=3 #7
-2022/06/03-16:27:17.198 a9d8 Delete type=0 #8
+2022/06/07-16:34:49.618 d3d9 Recovering log #11
+2022/06/07-16:34:50.067 d3d9 Delete type=0 #11
+2022/06/07-16:34:50.067 d3d9 Delete type=3 #9

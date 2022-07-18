@@ -1,5 +1,5 @@
-2022/06/03-15:58:14.425 88a5 Recovering log #30
-2022/06/03-15:58:14.426 88a5 Level-0 table #32: started
-2022/06/03-15:58:14.427 88a5 Level-0 table #32: 0 bytes OK
-2022/06/03-15:58:14.439 88a5 Delete type=3 #28
-2022/06/03-15:58:14.439 88a5 Delete type=0 #30
+2022/06/07-16:34:59.945 d37d Recovering log #33
+2022/06/07-16:34:59.946 d37d Level-0 table #35: started
+2022/06/07-16:34:59.946 d37d Level-0 table #35: 0 bytes OK
+2022/06/07-16:34:59.953 d37d Delete type=0 #33
+2022/06/07-16:34:59.954 d37d Delete type=3 #31

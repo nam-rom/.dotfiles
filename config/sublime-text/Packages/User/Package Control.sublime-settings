@@ -1,0 +1,13 @@
+{
+	"bootstrapped": true,
+
+	"channels":
+	[
+		"https://packagecontrol.io/channel_v3.json",
+		"https://packagecontrol.io/packages/All%20Autocomplete"
+	],
+	"installed_packages":
+	[
+		"Package Control"
+	],
+}

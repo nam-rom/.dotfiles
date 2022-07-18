@@ -10,6 +10,7 @@
 ; (gtk_accel_path "<Actions>/ThunarWindow/empty-trash" "")
 ; (gtk_accel_path "<Actions>/ThunarLauncher/open" "<Primary>o")
 ; (gtk_accel_path "<Actions>/ThunarWindow/reload" "<Primary>r")
+; (gtk_accel_path "<Actions>/ThunarBookmarks/cc98953e443e713bd6fd0bcf35ebf1b7" "")
 ; (gtk_accel_path "<Actions>/ThunarWindow/view-side-pane-menu" "")
 ; (gtk_accel_path "<Actions>/ThunarStandardView/sort-ascending" "")
 ; (gtk_accel_path "<Actions>/ThunarWindow/open-network" "")
