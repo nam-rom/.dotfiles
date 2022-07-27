@@ -243,10 +243,8 @@ bindsym $mod+F2 exec  "feh --random --bg-fill ~/Pictures/my-wallpaper/Work\ spac
 bindsym $mod+Return exec xfce4-terminal 
 
 #exec --no-startup-id conky -c ~/.config/Conky/conky.conf 
-exec_always --no-startup-id picom
 
 # uncomment to have nofication
-#exec_always --no-startup-id dunst
 
 
 # Volume config change shortcut what you want
@@ -261,19 +259,9 @@ bindsym $mod+Shift+d exec amixer -q set Master 2dB- unmute
 bindsym $mod2+r exec --no-startup-id dmenu_run 
 bindsym $mod+d exec --no-startup-id  rofi -show drun
 
-
+exec --no-startup-id bash ~/.myscript/autostart.sh 
 exec --no-startup-id sh  ~/.config/polybar/launch.sh --grayblocks
-exec --no-startup-id mpv --loop ~/Music/study-sound/mixkit-pond.wav 
-#exec --no-startup-id "simplescreenrecorder --start-hidden" 
-exec --no-startup-id "mpv --loop ~/Music/study-sound/Shelter\ Acoustic\ Instrumental.webm"
-exec --no-startup-id cd ~/Pictures/ && git add . && git commit -m "automate commit" && git push  origin main
-exec --no-startup-id cd ~/Music/ && git add . && git commit -m "automate commit" && git push  origin main
-exec --no-startup-id cd ~/.obsidian && git add . && git commit -m "automate commit" && git push  origin main
-exec --no-startup-id firefox
-exec --no-startup-id bash ~/.myscript/eyecare.sh
-exec --no-startup-id anki
-exec --no-startup-id dunst
-exec --no-startup-id fcitx5 -d
+
 
 bindsym $mod+Shift+s exec gscreenshot -csnd 1
 bindsym $mod2+Shift+s exec gscreenshot -csn 
